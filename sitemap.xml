@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chengtext.eu.org/posts/28551.html</loc>
+    
+    <lastmod>2024-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chengtext.eu.org/posts/18872.html</loc>
     
     <lastmod>2024-12-07</lastmod>
@@ -130,6 +139,13 @@
   
   <url>
     <loc>https://chengtext.eu.org/tags/%E7%BD%91%E7%AB%99%E4%BF%AE%E5%A4%8D/</loc>
+    <lastmod>2024-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chengtext.eu.org/tags/%E8%B5%84%E6%BA%90/</loc>
     <lastmod>2024-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
