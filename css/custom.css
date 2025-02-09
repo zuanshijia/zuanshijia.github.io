@@ -220,9 +220,9 @@
 }
 
 :root {
-  --trans-light: rgba(255, 255, 255, 0.88);
-  --trans-dark: rgba(25, 25, 25, 0.88);
-  --border-style: 1px solid rgb(169, 169, 169);
+  --trans-light: rgba(255, 255, 255, 1);
+  --trans-dark: rgba(25, 25, 25, 1);
+  --border-style: 2px solid rgb(0, 0, 0);
   --backdrop-filter: blur(5px) saturate(150%);
 }
 
@@ -771,6 +771,22 @@ display: none;
 [data-theme="dark"] #welcome-info {
   background: #212121;
 }
+/* 一级菜单居中 */
+#nav .menus_items {
+  position: absolute !important;
+  width: fit-content !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+/* 子菜单横向展示 */
+#nav .menus_items .menus_item:hover .menus_item_child {
+  display: flex !important;
+}
+/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -125px;
+}
+
 
 
 

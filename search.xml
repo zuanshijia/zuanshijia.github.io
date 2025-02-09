@@ -36,6 +36,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Hey!朋友，交换友链吗？</title>
+    <url>/posts/26585.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="申请要求"><a href="#申请要求" class="headerlink" title="申请要求"></a>申请要求</h1><ol>
+<li>能够正常安全的使用https访问</li>
+<li>建议是个人和小团体(不含商业性质)的网站申请</li>
+<li>不包含暴力，色情，恐怖等不良信息的网站</li>
+</ol>
+<h1 id="本站信息"><a href="#本站信息" class="headerlink" title="本站信息"></a>本站信息</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">名称: zuanshijia&#x27;s blog</span><br><span class="line">链接: https://zuanshijia.top</span><br><span class="line">描述: 本站用来分享技术，日常</span><br><span class="line">图标:https://zuanshijia.top/img/facivon.png</span><br><span class="line">联系方式: chengdailun@163.com/2524351327@qq.com</span><br><span class="line">网站页面截图:https://photos.chengtext.eu.org/img/截屏.PNG</span><br></pre></td></tr></table></figure>
+
+<h1 id="申请方式-指南"><a href="#申请方式-指南" class="headerlink" title="申请方式&#x2F;指南"></a>申请方式&#x2F;指南</h1><p>在 <strong>评论</strong> 中申请  点击下面两个的其中一个按钮(两个按钮都行)，然后会把申请格式自动复制到评论中，按要求填写发出去就行。<br>评论页面可以是 <a href="https://zuanshijia.top/link/index.html">友链评论界面</a> 也可以是本页面.<br>亦可发送站长的邮箱 <a href="mailto:&#x63;&#x68;&#101;&#110;&#103;&#x64;&#x61;&#x69;&#108;&#117;&#x6e;&#x40;&#x31;&#54;&#x33;&#x2e;&#x63;&#111;&#109;">&#x63;&#x68;&#101;&#110;&#103;&#x64;&#x61;&#x69;&#108;&#117;&#x6e;&#x40;&#x31;&#54;&#x33;&#x2e;&#x63;&#111;&#109;</a> 或者 <a href="mailto:&#x32;&#x35;&#x32;&#x34;&#x33;&#53;&#x31;&#x33;&#50;&#x37;&#64;&#113;&#x71;&#x2e;&#x63;&#x6f;&#109;">&#x32;&#x35;&#x32;&#x34;&#x33;&#53;&#x31;&#x33;&#50;&#x37;&#64;&#113;&#x71;&#x2e;&#x63;&#x6f;&#109;</a><br>格式为</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">网站名称:</span><br><span class="line">网站链接:</span><br><span class="line">网站头像:</span><br><span class="line">网站简介:</span><br><span class="line">网站截屏:</span><br></pre></td></tr></table></figure>
+<p>网站截屏可以自行提供，图片压缩后大小尽量为200KB左右，大小600x600左右<br>若未提供站点截屏的，站长会去贵站截屏放进图床(我会把图片压缩到50KB左右，我图床资源有限)</p>
+<p><strong>欢迎各站前来加入</strong></p>
+<div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (中文)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (英文)</button></div>
+<link rel="stylesheet" href="/css/kslink.css">
+<script src="/js/kslink.js"></script>
+]]></content>
+      <tags>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MenuetOS-仅1.44M的操作系统体验及感受</title>
     <url>/posts/52944.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言–介绍"><a href="#前言–介绍" class="headerlink" title="前言–介绍"></a>前言–介绍</h1><p>Menuet OS是汇编语言所开发的系统，占用小，运行速度快，其特点是<strong>软盘大小仅为1.44MB</strong>，ISO可引导boot完整版本大小为<strong>65MB</strong>，也算小的了。<br>Menuet OS支持64位系统，32位系统。 64位为闭源系统，32位为开源系统，本文章不过多赘述，仅展示x64(64位)版本<br>此系统<strong>麻雀虽小，五脏俱全</strong> 可上网，可以玩游戏，可以看本地视频，更炸裂的是，能开<strong>服务器</strong><br>但是，只有<mark class="hl-label default">英文版本</mark><br>官网: <a href="https://menuetos.net/">https://menuetos.net</a></p>
@@ -53,7 +75,7 @@
   <entry>
     <title>上海市广播电台频率表  持续更新版</title>
     <url>/posts/2050.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note success flat"><p>此表仅上海地区可用 如有漏掉或错误，请发邮件 <a href="mailto:&#99;&#x68;&#x65;&#110;&#103;&#x64;&#x61;&#x69;&#x6c;&#117;&#x6e;&#x73;&#116;&#101;&#118;&#x65;&#x40;&#x6f;&#x75;&#x74;&#x6c;&#111;&#111;&#x6b;&#46;&#99;&#x6f;&#x6d;">&#99;&#x68;&#x65;&#110;&#103;&#x64;&#x61;&#x69;&#x6c;&#117;&#x6e;&#x73;&#116;&#101;&#118;&#x65;&#x40;&#x6f;&#x75;&#x74;&#x6c;&#111;&#111;&#x6b;&#46;&#99;&#x6f;&#x6d;</a> 或者<a href="mailto:&#99;&#104;&#101;&#x6e;&#103;&#x64;&#97;&#x69;&#108;&#x75;&#110;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#109;">&#99;&#104;&#101;&#x6e;&#103;&#x64;&#97;&#x69;&#108;&#x75;&#110;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#111;&#109;</a><br>标粗的为特别提醒，标斜的为格外提醒</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note success flat"><p>此表仅上海地区可用 如有漏掉或错误，请发邮件 <a href="mailto:&#x63;&#x68;&#x65;&#110;&#103;&#100;&#x61;&#105;&#x6c;&#x75;&#x6e;&#x73;&#116;&#101;&#118;&#x65;&#64;&#111;&#117;&#x74;&#108;&#111;&#x6f;&#x6b;&#46;&#99;&#111;&#x6d;">&#x63;&#x68;&#x65;&#110;&#103;&#100;&#x61;&#105;&#x6c;&#x75;&#x6e;&#x73;&#116;&#101;&#118;&#x65;&#64;&#111;&#117;&#x74;&#108;&#111;&#x6f;&#x6b;&#46;&#99;&#111;&#x6d;</a> 或者<a href="mailto:&#x63;&#104;&#x65;&#110;&#x67;&#100;&#x61;&#x69;&#x6c;&#x75;&#x6e;&#64;&#x31;&#54;&#51;&#46;&#99;&#111;&#x6d;">&#x63;&#104;&#x65;&#110;&#x67;&#100;&#x61;&#x69;&#x6c;&#x75;&#x6e;&#64;&#x31;&#54;&#51;&#46;&#99;&#111;&#x6d;</a><br>标粗的为特别提醒，标斜的为格外提醒</p>
 <p>本表更新时间:2024.10.25</p>
 </div>
 
@@ -97,7 +119,7 @@
 </ol>
 <h1 id="Q-A"><a href="#Q-A" class="headerlink" title="Q&amp;A"></a>Q&amp;A</h1><h2 id="是否有团队"><a href="#是否有团队" class="headerlink" title="是否有团队"></a>是否有团队</h2><p>没有，三个网站都是我自己开的，域名是我自己买的</p>
 <h2 id="是否想过盈利的想法"><a href="#是否想过盈利的想法" class="headerlink" title="是否想过盈利的想法"></a>是否想过盈利的想法</h2><p>个人不存在盈利想法，毕竟我们都<strong>清白</strong>，我也不想在网站上挂广告。</p>
-<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>E-mail: <a href="mailto:&#99;&#x68;&#x65;&#110;&#x67;&#x64;&#x61;&#105;&#108;&#117;&#x6e;&#x40;&#x31;&#54;&#51;&#x2e;&#x63;&#111;&#x6d;">&#99;&#x68;&#x65;&#110;&#x67;&#x64;&#x61;&#105;&#108;&#117;&#x6e;&#x40;&#x31;&#54;&#51;&#x2e;&#x63;&#111;&#x6d;</a><br><a href="mailto:&#99;&#104;&#101;&#x6e;&#103;&#x64;&#x61;&#x69;&#108;&#117;&#110;&#115;&#116;&#101;&#x76;&#101;&#x40;&#x6f;&#x75;&#x74;&#x6c;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;">&#99;&#104;&#101;&#x6e;&#103;&#x64;&#x61;&#x69;&#108;&#117;&#110;&#115;&#116;&#101;&#x76;&#101;&#x40;&#x6f;&#x75;&#x74;&#x6c;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;</a><br>QQ: 2524351347(常用) 1965629302(副号)<br>留言板 站长每周末看一次</p>
+<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>E-mail: <a href="mailto:&#99;&#x68;&#x65;&#110;&#103;&#x64;&#97;&#105;&#108;&#117;&#x6e;&#x40;&#x31;&#54;&#51;&#x2e;&#x63;&#111;&#109;">&#99;&#x68;&#x65;&#110;&#103;&#x64;&#97;&#105;&#108;&#117;&#x6e;&#x40;&#x31;&#54;&#51;&#x2e;&#x63;&#111;&#109;</a><br><a href="mailto:&#x63;&#104;&#101;&#x6e;&#x67;&#x64;&#97;&#105;&#108;&#117;&#x6e;&#115;&#x74;&#101;&#x76;&#x65;&#x40;&#x6f;&#117;&#x74;&#x6c;&#111;&#x6f;&#107;&#46;&#x63;&#x6f;&#x6d;">&#x63;&#104;&#101;&#x6e;&#x67;&#x64;&#97;&#105;&#108;&#117;&#x6e;&#115;&#x74;&#101;&#x76;&#x65;&#x40;&#x6f;&#117;&#x74;&#x6c;&#111;&#x6f;&#107;&#46;&#x63;&#x6f;&#x6d;</a><br>QQ: 2524351347(常用) 1965629302(副号)<br>留言板 站长每周末看一次</p>
 <h1 id="授权许可"><a href="#授权许可" class="headerlink" title="授权许可"></a>授权许可</h1><p>若非特殊情况，分享此网站任何内容时，应遵守:<br>署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh</a></p>
 ]]></content>
       <categories>
@@ -156,7 +178,7 @@
 </div>
 <div class="note warning flat"><p><strong>免责声明</strong><br>本报告仅作电台频率数据客观记录及收听学习之用，请勿用于商业甚至非法用途，违者必究。因使用者自身原因造成严重后果的，<strong>本站不负有责任</strong>。<br><strong>其次，本报告仅作为对公民的提醒和查阅资料，本网站负责人并无其他用途</strong></p>
 </div>
-<h1 id="1-25日报告FM信息"><a href="#1-25日报告FM信息" class="headerlink" title="1.25日报告FM信息:"></a>1.25日报告FM信息:</h1><p>实地考察FM      88.3Mhz   94.1Mhz(中国之声)  96.00Mhz  98.5Mhz(湖北之声AM版)  103.3Mhz  107.6(远安人民广播电台)<br>SINPO      室内 54455       34233            11111        55555             24232        43354<br>           室外 55555       55445            42323        55555             44554        54454<br>           窗边 54555       54454            42223        55555             43554        54335</p>
+<h1 id="1-25日报告FM信息"><a href="#1-25日报告FM信息" class="headerlink" title="1.25日报告FM信息:"></a>1.25日报告FM信息:</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">实地考察FM      88.3Mhz   94.1Mhz(中国之声)  96.00Mhz  98.5Mhz(湖北之声AM版)  103.3Mhz  107.6(远安人民广播电台)      </span><br><span class="line">SINPO      室内 54455       34233            11111        55555             24232        43354</span><br><span class="line">           室外 55555       55445            42323        55555             44554        54454</span><br><span class="line">           窗边 54555       54454            42223        55555             43554        54335</span><br></pre></td></tr></table></figure>
 <div class="note warning flat"><p>官宣远安人民广播电台为106Mhz  SINPO:&#x2F; 实地没有考察到，但经再次考察推理，经远安电视台所播出电视节目及主持人声音综合考察，确定FM107.6为远安人民广播电台<br>站长已与远安融媒体中心沟通，等待回信</p>
 </div>
 
@@ -268,7 +290,7 @@
   <entry>
     <title>湖北省广播电台频率表 持续更新版</title>
     <url>/posts/5137.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note success flat"><p>此表仅湖北地区可用 如有漏掉或错误，请发邮件<a href="mailto:&#x63;&#x68;&#101;&#x6e;&#x67;&#100;&#97;&#105;&#x6c;&#x75;&#x6e;&#115;&#116;&#101;&#x76;&#101;&#64;&#111;&#x75;&#x74;&#108;&#x6f;&#111;&#107;&#46;&#x63;&#111;&#109;">&#x63;&#x68;&#101;&#x6e;&#x67;&#100;&#97;&#105;&#x6c;&#x75;&#x6e;&#115;&#116;&#101;&#x76;&#101;&#64;&#111;&#x75;&#x74;&#108;&#x6f;&#111;&#107;&#46;&#x63;&#111;&#109;</a>或<a href="mailto:&#x63;&#x68;&#101;&#x6e;&#103;&#x64;&#x61;&#x69;&#x6c;&#x75;&#x6e;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#x6f;&#109;">&#x63;&#x68;&#101;&#x6e;&#103;&#x64;&#x61;&#x69;&#x6c;&#x75;&#x6e;&#64;&#x31;&#54;&#51;&#x2e;&#99;&#x6f;&#109;</a><br>标粗的为特别提醒，标斜的为格外提醒</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note success flat"><p>此表仅湖北地区可用 如有漏掉或错误，请发邮件<a href="mailto:&#99;&#x68;&#101;&#x6e;&#x67;&#100;&#97;&#105;&#108;&#117;&#110;&#x73;&#x74;&#101;&#x76;&#101;&#x40;&#111;&#117;&#116;&#108;&#x6f;&#x6f;&#107;&#x2e;&#x63;&#x6f;&#x6d;">&#99;&#x68;&#101;&#x6e;&#x67;&#100;&#97;&#105;&#108;&#117;&#110;&#x73;&#x74;&#101;&#x76;&#101;&#x40;&#111;&#117;&#116;&#108;&#x6f;&#x6f;&#107;&#x2e;&#x63;&#x6f;&#x6d;</a>或<a href="mailto:&#99;&#x68;&#101;&#110;&#103;&#100;&#97;&#105;&#x6c;&#117;&#110;&#64;&#49;&#x36;&#51;&#46;&#99;&#111;&#x6d;">&#99;&#x68;&#101;&#110;&#103;&#100;&#97;&#105;&#x6c;&#117;&#110;&#64;&#49;&#x36;&#51;&#46;&#99;&#111;&#x6d;</a><br>标粗的为特别提醒，标斜的为格外提醒</p>
 <p>本版本更新时间:2024&#x2F;12&#x2F;13</p>
 </div>
 
@@ -330,21 +352,6 @@
 ]]></content>
       <tags>
         <tag>留言板</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站修复通知与公告</title>
-    <url>/posts/30441.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="网站公告-10月"><a href="#网站公告-10月" class="headerlink" title="网站公告 10月"></a>网站公告 10月</h1><p>本网站域名更换为 chengtext.eu.org 和 zuanshijia.us.kg 请各位知晓</p>
-<h2 id="网站修复通告"><a href="#网站修复通告" class="headerlink" title="网站修复通告"></a>网站修复通告</h2><p>本网站由于不可抗力因素，导致中国大陆地区无法访问本网站。网站负责人:钻石甲水世界 对其进行修复，现已正常访问。</p>
-<h1 id="网站公告-11月"><a href="#网站公告-11月" class="headerlink" title="网站公告 11月"></a>网站公告 11月</h1><p>本网站修复评论功能 增加在线聊天，在线统计</p>
-<h1 id="网站公告-12月"><a href="#网站公告-12月" class="headerlink" title="网站公告 12月"></a>网站公告 12月</h1><p>本网站恢复持续更新状态<br>12.13 网站美化，由于来比力评论系统内含有广告，现已删除<br>12.20 网站设置跨年 网站域名系统设置http转https，www转向根域名，您可以从多角度访问我们的网站博客<br>12.22 网站大幅度美化，上线Twikoo评论系统(搞死我了，我花了2个多小时啊啊)</p>
-<h1 id="网站公告-2025年1月"><a href="#网站公告-2025年1月" class="headerlink" title="网站公告 2025年1月"></a>网站公告 2025年1月</h1><p>本网站域名更换为zuanshijia.top，但仍可以通过<a href="https://chengtext.eu.org此域名重定向至本站/">https://chengtext.eu.org此域名重定向至本站</a></p>
-<p>1.19日 网站底部栏美化 参考<a href="https://www.fomal.cc/">https://www.fomal.cc/</a> 修复已知问题</p>
-<h1 id="网站公告2月"><a href="#网站公告2月" class="headerlink" title="网站公告2月"></a>网站公告2月</h1><p>2.8日 增加欢迎地理位置<br>站长本地网站配置文件损坏，现已经转危为安</p>
-]]></content>
-      <tags>
-        <tag>网站修复</tag>
       </tags>
   </entry>
   <entry>

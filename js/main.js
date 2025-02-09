@@ -689,23 +689,28 @@ document.addEventListener('DOMContentLoaded', () => {
  * 複製時加上版權信息
  */
   const addCopyright = () => {
-    const { limitCount, languages } = GLOBAL_CONFIG.copyright
-
-    const handleCopy = (e) => {
-      e.preventDefault()
-      const copyFont = window.getSelection(0).toString()
-      let textFont = copyFont
-      if (copyFont.length > limitCount) {
-        textFont = `${copyFont}\n\n\n${languages.author}\n${languages.link}${window.location.href}\n${languages.source}\n${languages.info}`
+    const { limitCount, languages, copy, copyrightEbable } = GLOBAL_CONFIG.copyright;
+  
+    const handleCopy = e => {
+      if (copy) {
+        btf.snackbarShow(GLOBAL_CONFIG.copy.success);
       }
-      if (e.clipboardData) {
-        return e.clipboardData.setData('text', textFont)
-      } else {
-        return window.clipboardData.setData('text', textFont)
+      if (copyrightEbable) {
+        e.preventDefault();
+        const copyFont = window.getSelection(0).toString();
+        let textFont = copyFont;
+        if (copyFont.length > limitCount) {
+          textFont = `${copyFont}\n\n\n${languages.author}\n${languages.link}${window.location.href}\n${languages.source}\n${languages.info}`;
+        }
+        if (e.clipboardData) {
+          return e.clipboardData.setData("text", textFont);
+        } else {
+          return window.clipboardData.setData("text", textFont);
+        }
       }
-    }
-
-    document.body.addEventListener('copy', handleCopy)
+    };
+  
+    document.body.addEventListener("copy", handleCopy);
   }
 
   /**
@@ -909,6 +914,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   btf.addGlobalFn('pjaxComplete', refreshFn, 'refreshFn')
+    //开发者工具键盘监听
+    window.onkeydown = function (e) {
+     123 === e.keyCode && btf.snackbarShow("开发者模式已打开，请遵循GPL协议", !1); 
+    };
+
+
   refreshFn()
   unRefreshFn()
 
