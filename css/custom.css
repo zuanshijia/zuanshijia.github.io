@@ -2,7 +2,7 @@
   /* 为载入的字体取名字(随意) */
   font-family: 'ziti';	
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url(/fonts/HYWH.woff2);
+  src: url(/fonts/ziti.woff2);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
@@ -785,6 +785,77 @@ display: none;
 /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
 .menus_items .menus_item:nth-child(2) .menus_item_child {
   left: -125px;
+}
+
+/* 全局宽度 */
+.layout {
+  max-width: 1400px;
+}
+
+/* 侧边卡片栏宽度 */
+.aside-content {
+  max-width: 318px;
+  min-width: 300px;
+}
+
+/* 平板尺寸自适应(不启用侧边栏宽度限制) */
+@media screen and (max-width: 900px) {
+  .aside-content {
+    max-width: none !important;
+    padding: 0 5px 0 5px;
+  }
+}
+
+/* 除了首页以外其他页面隐藏卡片，并采用宽屏显示 */
+#archive,
+#page,
+#category,
+#tag {
+  width: 100%;
+}
+.page:not(.page.home) .aside-content {
+  display: none;
+}
+/* 友链一行显示更多 */
+.site-card {
+  width: calc(100% / 5 - 16px) !important;
+  border-radius: 18px !important;
+}
+.site-card .img {
+  height: 165px !important;
+  border-radius: 18px !important;
+}
+/* 适应宽度不同的设备 */
+@media screen and (max-width: 1200px) {
+  .site-card {
+    width: calc(100% / 4 - 16px) !important;
+  }
+}
+@media screen and (max-width: 900px) {
+  .site-card {
+    width: calc(100% / 3 - 16px) !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  .site-card {
+    width: calc(100% / 2 - 16px) !important;
+  }
+}
+
+
+/*相册页面定位修复*/
+a > img, .justified-gallery > div > img,
+.justified-gallery > figure > img,
+.justified-gallery > a > a > img,
+.justified-gallery > div > a > img,
+.justified-gallery > figure > a > img,
+.justified-gallery > a > svg,
+.justified-gallery > div > svg,
+.justified-gallery > figure > svg,
+.justified-gallery > a > a > svg,
+.justified-gallery > div > a > svg,
+.justified-gallery > figure > a > svg{
+  position:static!important;
 }
 
 

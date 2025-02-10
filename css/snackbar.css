@@ -13,7 +13,7 @@
     background-color: transparent!important;
 }
 .snackbar-container{
-    font-family: ziti,'PingFang SC','Ubuntu Mono','Noto Sans','Microsoft Yahei','SimSun'!important;
+    font-family: 'ziti','PingFang SC','Ubuntu Mono','Noto Sans','Microsoft Yahei','SimSun'!important;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 }
