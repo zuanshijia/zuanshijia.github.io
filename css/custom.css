@@ -976,6 +976,13 @@ h6::before {
   -o-transform: scale(0.5);
 }
 
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
+}
+
+
 
 
 
