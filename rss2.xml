@@ -3,13 +3,13 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>钻石甲的博客网站</title>
+    <title>zuanshijia&#39;s blog</title>
     <link>https://zuanshijia.top/</link>
     
     <atom:link href="https://zuanshijia.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>钻石甲的博客网站</description>
-    <pubDate>Sat, 15 Mar 2025 05:32:11 GMT</pubDate>
+    <description>一位普通话不标准的湖北人</description>
+    <pubDate>Sat, 15 Mar 2025 05:32:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
