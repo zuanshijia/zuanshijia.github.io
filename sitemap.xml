@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zuanshijia.top/about/index.html</loc>
+    
+    <lastmod>2025-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zuanshijia.top/posts/26585.html</loc>
+    
+    <lastmod>2025-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zuanshijia.top/posts/5528.html</loc>
     
     <lastmod>2025-03-22</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://zuanshijia.top/404.html</loc>
-    
-    <lastmod>2025-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zuanshijia.top/posts/26585.html</loc>
     
     <lastmod>2025-03-22</lastmod>
     
