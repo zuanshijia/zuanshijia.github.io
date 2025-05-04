@@ -1,0 +1,111 @@
+/* 默认的亮色主题样式 */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    background-color: #f0f0f0;
+    color: #333;
+    overflow-y: auto; /* 允许垂直滚动 */
+  }
+  
+  .about-me {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    max-width: 1200px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 50px auto; /* 居中显示 */
+  }
+  
+  .left-panel, .right-panel {
+    flex: 1;
+    padding: 20px;
+    min-width: 300px; /* 设置最小宽度 */
+  }
+  
+  .card {
+    background-color: rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .card h2 {
+    margin-top: 0;
+  }
+  
+  .skills, .hobbies, .projects, .games-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .skills li, .hobbies li, .projects li, .games-list li {
+    margin-bottom: 10px;
+  }
+  
+  .profile {
+    background: linear-gradient(135deg, #eec1ea, #bdbdf0);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .profile h2 {
+    margin: 10px 0;
+  }
+  
+  .profile p {
+    font-style: italic;
+  }
+  
+  .games img {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    object-fit: cover; /* 确保图片被正确裁剪 */
+  }
+  
+  /* 暗色主题样式 */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #f0f0f0;
+    }
+  
+    .about-me {
+      background-color: #444;
+    }
+  
+    .card {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  
+    .profile {
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
+      color: white;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .left-panel, .right-panel {
+      flex: 100%;
+    }
+  }
