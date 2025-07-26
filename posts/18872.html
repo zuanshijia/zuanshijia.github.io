@@ -185,7 +185,7 @@ btf.addGlobalFn('pjaxSend', () => {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://www.soviettest.eu.org',
+      envId: 'https://comment.zuanshijia.top/.netlify/functions/twikoo',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -199,7 +199,7 @@ btf.addGlobalFn('pjaxSend', () => {
   const init = (el = document, path = location.pathname) => {
     twikoo.init({
       el: el.querySelector('#twikoo-wrap'),
-      envId: 'https://www.soviettest.eu.org',
+      envId: 'https://comment.zuanshijia.top/.netlify/functions/twikoo',
       region: '',
       onCommentLoaded: () => {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
