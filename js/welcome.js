@@ -19,7 +19,7 @@ if (sessionStorage.getItem("popCookieWindow") !== "0") {
         Snackbar.show({
             text: '本站使用本地/会话存储保证浏览体验和网站统计',
             pos: 'bottom-left',
-            actionText: "版权声明",
+            actionText: "隐私政策",
             onActionClick: function (element) {
                 duration: 15000, // 5秒后自动消失
                 window.open("/隐私政策/index.html")
