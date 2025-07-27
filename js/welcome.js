@@ -21,7 +21,8 @@ if (sessionStorage.getItem("popCookieWindow") !== "0") {
             pos: 'bottom-left',
             actionText: "版权声明",
             onActionClick: function (element) {
-                window.open("/posts/19487")
+                duration: 15000, // 5秒后自动消失
+                window.open("/隐私政策/index.html")
             },
         })
     }, 3000)
