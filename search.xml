@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/16107.html"/>
+      <url>/posts/16107.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>业余无线电:近几月经验杂谈</title>
+      <link href="/posts/45261.html"/>
+      <url>/posts/45261.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>CQ CQ CQ，这里是BH6SNU<br>在如今日新月异，科技先进的日常生活中，可能对于大部分人来讲，”无线电”可能是一个即陌生又熟悉的词<br>它广泛应用于我们的日常生活之中，例如: Wifi,GNSS定位,移动数据等等<br>它亦可应用于我们不熟悉的领域: 业余无线电<br>那么在本篇文章中，我将讲述从我拿到呼号到现在(2025&#x2F;11&#x2F;8)日总结的经验以及中继台使用情况</p><p>注:本文章不包含短波，仅讲述UV段(144Mhz,430Mhz)</p><h1 id="经验分享"><a href="#经验分享" class="headerlink" title="经验分享"></a>经验分享</h1><h2 id="杂谈"><a href="#杂谈" class="headerlink" title="杂谈"></a>杂谈</h2><h3 id="高度问题"><a href="#高度问题" class="headerlink" title="高度问题"></a>高度问题</h3><p>所谓”站得高，看得远”，在业余无线电中亦非常重要，有了一个好的高度，即使是UV段，相隔300Km，亦可互相通联，得上八木天线，毕竟长距离信号比较差，我从武汉打到—&gt;宜昌，S表可以到S3-S4，信号没那么好(20楼高度)<br>当然这个距离如果是直频的话那就非常困难了，有一定高度的话10-20公里不成问题。所以高度是非常重要的</p><h3 id="低高度问题"><a href="#低高度问题" class="headerlink" title="低高度问题"></a>低高度问题</h3><p>低高度，是令我十分头痛得一点，我每一次追求效果好的通联必须去隔壁小区，那么我是如何做到坐在家中通联的呢？首先，因为我的设备是UV-K6，只有5W功率，首先得站在我家阳台，然后将手台垂直于地面(原装A8天线)，因为垂直，手台不好按PTT,所以配个手咪，然后连接离我家比较近的中继台(湖北900链路中继台-汉南，武汉日通链路中继台-汉阳)，这样的话信号可达S5-S7(S表)</p><h3 id="天线问题"><a href="#天线问题" class="headerlink" title="天线问题"></a>天线问题</h3><p>我比较追求远距离，但日常为了便携，采用原装天线，拇指天线买不起，当需要有远距离需求时，我就上八木天线，五单元，自己手搓耗费时间太长，且驻波有很大的未知性要自己去测量。</p><h1 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h1><p>这就是我这几个月以来面对的无线电的一些问题，只有我们不断的去解决问题，寻找思路和方法，逐渐突破瓶颈，让事情更顺利!</p><p>这里是BH6SNU,把73送给每一位查看这一篇文章的友台和各位友站!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2025年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 无线电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自述爱好--我的无线电爱好历程</title>
+      <link href="/posts/39401.html"/>
+      <url>/posts/39401.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>最初，由于实在无聊，我便在网上购入了一个小型拇指收音机来听电台，发现效果并不是很好，后面被我的父亲所知</p><h1 id="Chapter-1-初识它-2023-9月-2023-11月"><a href="#Chapter-1-初识它-2023-9月-2023-11月" class="headerlink" title="Chapter 1 初识它 2023 9月-2023 11月"></a>Chapter 1 初识它 2023 9月-2023 11月</h1><p>于是我父亲认为此拇指收音机太烂，于是便在网上给我购入了一款德生比较老的一个收音机，型号是TECSUN R-911，虽说老，但是它老当益壮啊！我爸说此物可以听短波，当初我并不知道短波是什么，后续所知短波是可以听国际电台的，于是我便天天在家捣鼓，这款唯一的缺点是无屏幕，不好掌控频率，调到某个频率不知道这个频率是什么台，于是这个收音机就传给我爷了</p><h1 id="Chapter-2-引入门-2023-11月-2025-2月"><a href="#Chapter-2-引入门-2023-11月-2025-2月" class="headerlink" title="Chapter 2 引入门 2023 11月-2025 2月"></a>Chapter 2 引入门 2023 11月-2025 2月</h1><p>后面又购入了德生PL-380，也算是个入门机型了，因为有了屏幕，也能显示信号强度，于是这个收音机是陪伴我最久的，我经常拿着它收听FM,MW,SW广播，还买了德生AR外接夹式天线给他安装上，信号强了不少！！随后在一次刷视频，我偶然看见收听5000Khz国家授时中心的频率可以下发一张卡，当时我不知道那是什么卡，怀着激动的心就在那里听，在2024年过年年初，我便将我听到的内容和摩斯电码通过邮件发到了中国授时中心负责人的邮箱，1月发的2月收到，十分激动，后面方知此物为QSL卡，也就是收听证明卡，于是，我便在网上大规模的搜寻能够获得QSL卡的电台，后面去尝试蒙古之声，但是没发给我。后面我再次搜寻QSL，直到我发现了在知乎上对于QSL的定义:是一种通联或收听的凭证，代表电台和个人，通联？我又去搜通联，发现原来还存在:业余无线电!我觉得这个很神奇，于是后面搜寻如何成为一名业余无线电爱好者，原来是要考试，我心血来潮，于是在网上找题库，先从最低级A类开始，因为题量大报名难，考试地点不好，于是这个考试的计划搁置了一下，从2024下半年至2025年上半年我都没有接触无线电，唯一的就是听一下FM电台</p><h1 id="Chapter-3-深化它-2025-2月-2025-4月"><a href="#Chapter-3-深化它-2025-2月-2025-4月" class="headerlink" title="Chapter 3 深化它 2025 2月-2025 4月"></a>Chapter 3 深化它 2025 2月-2025 4月</h1><p>后面因看到他人收藏的许多QSL卡，于是我内心那颗热爱无线电的心燃烧了起来。听说KBS与听众互动很好？那就听！于是我在2月6日发送了我所收听的内容与对节目的感触，KBS发来了QSL卡，具体长什么样，可以去我站前面的文章去看，然后2025过年的时候我又去NHK那里申请了发卡，不抱希望能拿到，没想到漂洋过海给我拿到了，可惜现在NHK的卡已经绝版了。后面由于一些变故，再加上PL-380的音量调节按钮不太行了，我的收音机从Tecusn PL-380换到了Tecsun PL-600，这个性能就好多了，能听得台更清晰，能外接3.5mm耳机和天线，能用充电电池，这就很好，后面我又去加拿大CHU申请卡，我把我那蹩脚的英语使了出来，没想到人家回复我了！又是漂洋过海，也拿到了！</p><h1 id="Chapter-4-了解它-2025-6月"><a href="#Chapter-4-了解它-2025-6月" class="headerlink" title="Chapter 4 了解它 2025 6月"></a>Chapter 4 了解它 2025 6月</h1><p>后面我猛然想到”通联”，我反思:通联？我光玩个收音机算什么!于是我再次打开CRAC官网，发现了一个对于我来说比较好的考试场次，脑子一热，光速报名，因为当时我需要准备期末考试，所以题库根本没有看来得及去看，后面期末考试考完了，又搁置了几天</p><h1 id="Chapter-5-加入它-2025-7月"><a href="#Chapter-5-加入它-2025-7月" class="headerlink" title="Chapter 5 加入它 2025 7月"></a>Chapter 5 加入它 2025 7月</h1><p>期末考完了，等了一周，我才开始弄题库，上午干自己的，下午弄题库，先是随机出题通刷一遍，刷完后模拟考试，一天大概模拟考个5-6次吧，直到7月11日，我们就出发到考试地点，晚上了住个酒店，虽然说那一晚没有睡好，但是我相信这几天的努力绝对会在考场上大放光彩！终于，7月12日，早上的那一碗襄阳牛肉面令我记忆犹新，虽说它的味道不咋样，没吃多少，但是这是我来襄阳考试的象征！到达考试所要去的学校，在里面找了一圈，找到考试地点，在外面等了一下，回忆了一下题库，”是处罚30000以下还是1000以上5000以下啊？是dbi是点源?是YAGI是八木天线？GP又是啥？”，最终，进入考场，把我的华强北叙利亚手表装入了考试手机袋，签了个到，给监考看了准考证和身份证后，我便找到我的座位号，开始等待，随后发下试卷，我便开始写，不到8分钟我就写完了，反复检查了几遍，确认没啥大问题后就等，经过漫长的等待，考试结束，我拿好我的东西后便出来，回到酒店，我回忆我写的题目，发现有一个错了，呜呜，但就是那一道题错了，应该能过，然后又是漫长的等待。</p><h1 id="Chapter-6-等待它-2025-7月15日—2025-8月1日"><a href="#Chapter-6-等待它-2025-7月15日—2025-8月1日" class="headerlink" title="Chapter 6 等待它 2025 7月15日—2025 8月1日"></a>Chapter 6 等待它 2025 7月15日—2025 8月1日</h1><p>果然意料之中，过了，然后就去申请呼号，买手台，买天线，设计QSL卡，因为没拿到呼号，只能打信号看中继台能不能用，然后守听。</p><h1 id="Chapter-7-成为它-2025-8月1日—Now"><a href="#Chapter-7-成为它-2025-8月1日—Now" class="headerlink" title="Chapter 7 成为它 2025 8月1日—Now"></a>Chapter 7 成为它 2025 8月1日—Now</h1><p>拿到呼号，整装上阵，我就正式成为了一名无线电HAM!8月2日回到了远安县老家，只能去沮河边上打信号，发现可以使用荆门中继，但是效果还是很差，于是接连几天都没有使用手台，8月14日抵达荆州老家，我便在荆州通联了几位HAM，给我印象深刻的有:荆州小号159，BG6QLL,BH6RPE，荆州协会主控，对于详细我通联日志，可以去<a href="https://zuanshijia.top/connentlogserver">业余无线电通联记录查询系统</a>去看，8月17日，回到武汉，在汉南中继和汉阳链路CQ呼叫，一个人都没理我，估计时间不好，过几天在呼吧！，然后我又购买了制作八木天线的原材料，打算自己手搓一根八木天线，看能不能打到荆州业余无线电中继台。</p><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>从最初 听收音机，听别人的电台 到 业余无线电呼叫，从最初收到别人的QSL到自己设计QSL卡，一步步，因为热爱，所以才能够让我有如此前进的动力！相信在未来的某一天，我们一定能在空中相见！</p><p>这里是BH6SNU，Bravo Hotel six Sierra November Uniform,这就是我在无线电道路上的全部探索，73~</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>加拿大:加拿大授时台CHU收听报告附QSL卡 / 无线电篇005</title>
+      <link href="/posts/41103.html"/>
+      <url>/posts/41103.html</url>
+      
+        <content type="html"><![CDATA[<div class="note flat"><p><em>“时间的脉搏在电波中永恒跃动——CHU的每一秒报时，都是人类对精准的执着，更是加拿大对世界的守时宣言。”</em></p></div><h1 id="收听信息"><a href="#收听信息" class="headerlink" title="收听信息"></a>收听信息</h1><p>国家: 中国<br>地点: 湖北省武汉市蔡甸区<br>日期:2025年5月29日<br>时间(UTC):11:30-12:00<br>频率FREQ: 3330Khz<br>站点: 加拿大CHU<br>设备: Websdr<br>天线ANT: &#x2F;<br>天线增益ANT.GAIN: &#x2F;<br>SINPO: 22232</p><h1 id="电台信息"><a href="#电台信息" class="headerlink" title="电台信息"></a>电台信息</h1><p>电台全称EN: National Research Council Canada CHU<br>所属国家: 加拿大(CA)</p><h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><p>收听报告寄送：电子邮件<br>E-mail：<a href="mailto:&#114;&#x61;&#100;&#105;&#x6f;&#x2e;&#x63;&#104;&#117;&#x40;&#x6e;&#114;&#x63;&#x2d;&#x63;&#110;&#x72;&#x63;&#46;&#103;&#99;&#x2e;&#x63;&#x61;">radio.chu@nrc-cnrc.gc.ca</a><br>通信地址：1200 Montreal Road, Ottawa, ON, K1A0R6</p><h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><p>要备注你用的是什么设备，然后要写收听内容，要具体一点，最好列个表格</p><h1 id="QSL卡展示"><a href="#QSL卡展示" class="headerlink" title="QSL卡展示"></a>QSL卡展示</h1><p><img src="https://cdn.zuanshijia.top/CHU1.jpg" alt="QSL1" title="QSL1"><br><img src="https://cdn.zuanshijia.top/CHU2.jpg" alt="QSL2" title="QSL2"></p><h1 id="题外"><a href="#题外" class="headerlink" title="题外"></a>题外</h1><p>我过A类业余无线电考试啦，马上就能拿到呼号了，欢迎湖北也欢迎全国各地的HAM与我通联~73</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无线电 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电台收听报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日本:NHK-World收听报告附QSL卡 / 无线电篇004</title>
+      <link href="/posts/51289.html"/>
+      <url>/posts/51289.html</url>
+      
+        <content type="html"><![CDATA[<div class="note flat"><p><em>“电波是时间的织布机，NHK用它编织国民共同的记忆。”</em></p></div><h1 id="收听信息"><a href="#收听信息" class="headerlink" title="收听信息"></a>收听信息</h1><p>国家: P.R.China 中国<br>地点: Caidian District,Wuhan City,Hubei PROV 湖北省武汉市蔡甸区<br>日期:2025年1月31日<br>时间(UTC):11:30-12:00<br>频率FREQ: 6190Khz<br>站点: 日本Yamata<br>设备: TECSUN PL-380<br>天线ANT: TECSUN AN-05<br>天线增益ANT.GAIN: DX<br>SINPO: 32233</p><h1 id="电台信息"><a href="#电台信息" class="headerlink" title="电台信息"></a>电台信息</h1><p>电台名称: NHK WORLD-JAPAN(日本广播协会)<br>英文: Japan Broadcasting Corporation<br>所属国家:Japan(日本JP)</p><h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><p>官网(中文部): <a href="https://www3.nhk.or.jp/nhkworld/zh/">https://www3.nhk.or.jp/nhkworld/zh/</a><br>收听报告线上报告: <a href="https://www3.nhk.or.jp/nhkworld/zh/contact/">https://www3.nhk.or.jp/nhkworld/zh/contact/</a></p><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>要求: 收听报告不是发到nhk的邮箱，而是线上报告</p><h1 id="QSL-收听证明卡-展示"><a href="#QSL-收听证明卡-展示" class="headerlink" title="QSL(收听证明卡)展示"></a>QSL(收听证明卡)展示</h1><h2 id="NHK收听证明卡停止发放公告"><a href="#NHK收听证明卡停止发放公告" class="headerlink" title="NHK收听证明卡停止发放公告"></a>NHK收听证明卡停止发放公告</h2><div class="note danger modern"><p>2025年 2月 19日<br>关于NHK日本国际传媒停止邮寄收听证明的通知<br>从2025年3月21日播出的节目开始，NHK日本国际传媒将停止向发送收听报告的听众邮寄收听证明（截至3月20日的节目仍可收到收听证明），感谢各位听众的理解与配合。欢迎继续通过主页的“询问和留言”发送关于华语节目的意见和建议，帮助我们提高节目质量及服务水平。</p></div><h2 id="正面"><a href="#正面" class="headerlink" title="正面"></a>正面</h2><p>正面<br><img src="https://r2.zuanshijia.top/nhkqsl.JPG" alt="QSL1" title="QSL1"></p><h2 id="背面"><a href="#背面" class="headerlink" title="背面"></a>背面</h2><p>背面<br><img src="https://r2.zuanshijia.top/nhkqslb.JPG" alt="QSL2" title="QSL2"></p><h2 id="信封"><a href="#信封" class="headerlink" title="信封"></a>信封</h2><p>没有信封，到手就是一张卡</p><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>过年期间，闲来无事，拿PL-380(那个时候我还没换TECSUN PL-600)，在老家听了一下，然后在他们的官网(访问时需要特殊办法)写了个收听报告，表明自己需要QSL卡后给他们发了过去，我其实对于NHK的QSL是没有做任何打算的，因为网上论坛许多人说nhk的卡很难拿，邮局容易弄丢。没想到在2025年6月18号给我送到屋门口了，给中国邮政点赞，很负责。漂洋过海快半年，拿到手上甚激动啊。可惜今年不发卡了，<code>这说明nhk的QSL卡现在已经绝版了</code>，如果是在2025.3.21前发的收听报告的人，等一等，说不定会寄到你手上，3.21日后发的人，QSL卡就没着落了。</p><h1 id="题外"><a href="#题外" class="headerlink" title="题外"></a>题外</h1><p>站长已经报名参加业余无线电A类证书考试，将在2025.7.12日去考试</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无线电 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电台收听报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>butterfly主题即刻短文搭建教程</title>
+      <link href="/posts/57581.html"/>
+      <url>/posts/57581.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="简述即刻短文及前言"><a href="#简述即刻短文及前言" class="headerlink" title="简述即刻短文及前言"></a>简述即刻短文及前言</h1><table><thead><tr><th>可做功能</th><th>是否支持</th></tr></thead><tbody><tr><td>发布文字</td><td>✅</td></tr><tr><td>发布标题</td><td>✅</td></tr><tr><td>嵌入图片</td><td>✅</td></tr><tr><td>横向瀑布流</td><td>✅</td></tr><tr><td>本地使用yml存储数据</td><td>✅</td></tr><tr><td>显示IP属地</td><td>✅</td></tr><tr><td>云端部署</td><td>❌</td></tr></tbody></table><p>博客–即为分享个人的平台，部分分享内容太短，为避免造成文章过短质量过低，所以即刻短文诞生，本次的即刻短文是<strong>我自己和Deepseek手搓出来的</strong>，我自己的方案。</p><p>实力页面: <a href="https://zuanshijia.top/jike">https://zuanshijia.top/jike</a></p><h1 id="1-创建yml数据文件"><a href="#1-创建yml数据文件" class="headerlink" title="1. 创建yml数据文件"></a>1. 创建yml数据文件</h1><p>新建<code>/blogroot/source/_data/jike.yml</code><br>示范:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">- title: &quot;下周出教程&quot;</span><br><span class="line">  content: &quot;下周对于即刻短文界面出一个教程&quot;</span><br><span class="line">  ip: &quot;湖北武汉经开沌口&quot;</span><br><span class="line">  time: &quot;2025-5-11 16:50&quot;</span><br><span class="line">- title: &quot;&quot;</span><br><span class="line">  content: &quot;&quot;</span><br><span class="line">  ip: &quot;&quot;</span><br><span class="line">  image: &quot;&quot;</span><br><span class="line">  time: &quot;&quot;</span><br></pre></td></tr></table></figure><h2 id="1-1-数据解释"><a href="#1-1-数据解释" class="headerlink" title="1.1 数据解释"></a>1.1 数据解释</h2><table><thead><tr><th>参数</th><th>示意</th></tr></thead><tbody><tr><td>title</td><td>标题</td></tr><tr><td>content</td><td>内容</td></tr><tr><td>ip</td><td>IP地址</td></tr><tr><td>time</td><td>发布时间</td></tr><tr><td>image</td><td>图像</td></tr></tbody></table><h1 id="2-创建HTML结构"><a href="#2-创建HTML结构" class="headerlink" title="2. 创建HTML结构"></a>2. 创建HTML结构</h1><p>新建<code>/blogroot/themes/butterfly/layout/includes/page/jike.pug</code><br>粘贴以下代码</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br></pre></td><td class="code"><pre><span class="line">doctype html</span><br><span class="line">html(lang=&quot;en&quot;)</span><br><span class="line">  head</span><br><span class="line">    meta(charset=&quot;UTF-8&quot;)</span><br><span class="line">    meta(name=&quot;viewport&quot;, content=&quot;width=device-width, initial-scale=1.0&quot;)</span><br><span class="line">    title 即刻短文</span><br><span class="line">    link(rel=&#x27;stylesheet&#x27;, href=&#x27;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css&#x27;)</span><br><span class="line">    style.</span><br><span class="line">      /* 基础样式 */</span><br><span class="line">      body &#123;</span><br><span class="line">        font-family: &#x27;Arial&#x27;, sans-serif;</span><br><span class="line">        margin: 0;</span><br><span class="line">        padding: 0;</span><br><span class="line">        transition: background-color 0.3s, color 0.3s;</span><br><span class="line">      &#125;</span><br><span class="line">      </span><br><span class="line">      /* 关键修改：横向瀑布流 */</span><br><span class="line">      .timeline &#123;</span><br><span class="line">        column-count: 3; /* 3列布局 */</span><br><span class="line">        column-gap: 20px; /* 列间距 */</span><br><span class="line">        padding: 20px;</span><br><span class="line">      &#125;</span><br><span class="line">      </span><br><span class="line">      /* 每个卡片样式（宽度固定，高度自适应） */</span><br><span class="line">      .item &#123;</span><br><span class="line">        display: inline-block; /* 必须用 inline-block */</span><br><span class="line">        width: 100%; /* 占满列宽 */</span><br><span class="line">        border-radius: 8px;</span><br><span class="line">        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);</span><br><span class="line">        padding: 15px;</span><br><span class="line">        margin-bottom: 20px; /* 行间距 */</span><br><span class="line">        break-inside: avoid; /* 防止断裂 */</span><br><span class="line">      &#125;</span><br><span class="line">      </span><br><span class="line">      /* 其他样式保持不变 */</span><br><span class="line">      .bber-content &#123;</span><br><span class="line">        margin-bottom: 15px;</span><br><span class="line">      &#125;</span><br><span class="line">      .bber-content-img img &#123;</span><br><span class="line">        width: 100%;</span><br><span class="line">        border-radius: 8px;</span><br><span class="line">        margin-bottom: 10px;</span><br><span class="line">      &#125;</span><br><span class="line">      .bber-bottom &#123;</span><br><span class="line">        display: flex;</span><br><span class="line">        justify-content: space-between;</span><br><span class="line">        align-items: center;</span><br><span class="line">      &#125;</span><br><span class="line">      </span><br><span class="line"></span><br><span class="line"></span><br><span class="line">  body(class=&#x27;light-mode&#x27;)</span><br><span class="line">    section.timeline.page-1</span><br><span class="line">      ul#waterfall.list.show</span><br><span class="line">        each item in site.data.jike</span><br><span class="line">          li.item</span><br><span class="line">            .bber-content</span><br><span class="line">              if item.image</span><br><span class="line">                .bber-content-img</span><br><span class="line">                  a.fancybox(target=&#x27;_blank&#x27;, rel=&#x27;noopener&#x27;, href=item.image, data-fancybox=&#x27;gallery&#x27;, data-caption)</span><br><span class="line">                    img.bber-content-image-self(src=item.image)</span><br><span class="line">              h3= item.title</span><br><span class="line">              p.datacont= item.content</span><br><span class="line">            .bber-bottom</span><br><span class="line">              .bber-info</span><br><span class="line">                .bber-info-time</span><br><span class="line">                  i.fa-solid.fa-calendar-days</span><br><span class="line">                  time(datatime=item.time)= new Date(item.time).toLocaleString(&#x27;zh-CN&#x27;, &#123;timeZone: &#x27;Asia/Shanghai&#x27;&#125;)</span><br><span class="line">                .bber-info-address</span><br><span class="line">                  i.fas.fa-map-marker-alt</span><br><span class="line">                  span= item.ip</span><br></pre></td></tr></table></figure><p>CSS嵌入pug中</p><h1 id="3-创建MD页面"><a href="#3-创建MD页面" class="headerlink" title="3.创建MD页面"></a>3.创建MD页面</h1><p>在CMD页面输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page jike</span><br></pre></td></tr></table></figure><h1 id="4-添加页面判断"><a href="#4-添加页面判断" class="headerlink" title="4.添加页面判断"></a>4.添加页面判断</h1><p>修改themes&#x2F;butterfly&#x2F;layout&#x2F;page.pug 来使识别页面所对应的pug页面结构</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">+     when &#x27;jike&#x27;</span><br><span class="line">+       include includes/page/jike.pug</span><br><span class="line">      when &#x27;tags&#x27;</span><br><span class="line">        include includes/page/tags.pug</span><br><span class="line">      when &#x27;link&#x27;</span><br><span class="line">        include includes/page/flink.pug</span><br><span class="line">      when &#x27;categories&#x27;</span><br><span class="line">        include includes/page/categories.pug</span><br></pre></td></tr></table></figure><h1 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h1><p>弄完后，你就可以看到页面了</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 博客魔改记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>五一河南洛阳之行</title>
+      <link href="/posts/21528.html"/>
+      <url>/posts/21528.html</url>
+      
+        <content type="html"><![CDATA[<p>本文章图片较多，访问速度可能会拖慢！</p><div class="note warning flat"><p><strong>注意事项</strong><br>本文章内的所有图片版权均属 钻石甲水世界 站长所有</p></div><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本次五一，来一场说走就走的旅行！！<br>于是我们就去了河南省</p><h1 id="Day-1-启程"><a href="#Day-1-启程" class="headerlink" title="Day 1 启程"></a>Day 1 启程</h1><p>本次旅程从湖北武汉出发，驱车600公里，开的还是电车，路上冲了两次电ԅ(¯﹃¯ԅ)<br>沿途美景~<br><img src="https://r2.zuanshijia.top/%E9%AB%98%E9%80%9F/HNhighway1.jpg" alt="高速1" title="高速1"><br>到达 洛阳龙门 收费站<br>下车就走开元大道</p><h2 id="Day1-洛邑古城-入古现繁华"><a href="#Day1-洛邑古城-入古现繁华" class="headerlink" title="Day1 洛邑古城 入古现繁华"></a>Day1 洛邑古城 入古现繁华</h2><p>或许是心里充满对来到一个新城市的期望，于是马不停蹄的赶到洛邑古城<br>到达附近，我真服了，停车的地方没有，有一点空位更是<strong>小到没有</strong><br>在找了个商场停到地下车库后，我们上去<br>先过了个马路，我被河南的人口所佩服，<strong>人山人海</strong><br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYbridge3.jpg" alt="桥3" title="桥3"><br>桥上日落美景~~<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYbridge1.jpg" alt="桥1" title="桥1"><br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYbridge2.jpg" alt="桥2" title="桥2"><br>随意找了一家店吃饭（说实话里面稀烂），进入洛邑古城！！<br>一进去就被惊呆住啦！！！！<br>这里面人头攒动啊，挤的我不行，大门做的挺好看~~<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYdoor1.jpg" alt="城内1" title="城内1"><br>人多！！<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYdoor2.jpg" alt="城内2" title="城内2"><br>进去了，里面<strong>灯光</strong>好看！！人还是多啊<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYdoor3.jpg" alt="城内3" title="城内3"><br>逆流行驶ing…..<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYdoor4.jpg" alt="城内4" title="城内4"><br>我觉得洛邑古城亦有一大特点，就是很多穿古装的人<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYpeople1.jpg" alt="人1" title="人1"><br>挺有特色哈<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E/HNLYpeople2.jpg" alt="人2" title="人2"></p><h2 id="Day1-结束"><a href="#Day1-结束" class="headerlink" title="Day1 结束"></a>Day1 结束</h2><p>由于白天驱车，晚上到达，所以时间不够，大概11点到酒店，立马睡觉</p><h1 id="Day2-启程"><a href="#Day2-启程" class="headerlink" title="Day2 启程"></a>Day2 启程</h1><p>第二天，在河南的一个早上，必须吃点早饭<br>因为酒店比较偏僻，紧挨高速收费站(洛阳高新区站)所以那里的早饭店规模不大，应该可以吃到河南特色<br>弄了一个牛杂汤+饼丝<br>我一个湖北人早上要吃面，吃这个饼我是真吃不惯</p><h2 id="Day2-少林寺-感寺庙文化"><a href="#Day2-少林寺-感寺庙文化" class="headerlink" title="Day2 少林寺 感寺庙文化"></a>Day2 少林寺 感寺庙文化</h2><p>说实话，少林寺声名远扬，老早想去<br>驱车一小时，到达那里<br>昨天是人山人海，今天是车水马龙<br>没有停车位啊，停一次车要30块钱<br><em>吐槽，一个这么大的5A景区竟然没停车场，虽然看到了但是交警拦着不让进</em><br>停了一个较远的地方，赶往大门<br>验票，进去<br>里面太长了<br>这里展示少林寺内一张随拍<br><img src="https://r2.zuanshijia.top/%E5%B0%91%E6%9E%97%E5%AF%BA/HNSLS1.jpg" alt="少林寺1" title="少林寺1"><br>顶着洛阳38度的高温(5月2日真的太热了)，艰难走到<br><img src="https://r2.zuanshijia.top/%E5%B0%91%E6%9E%97%E5%AF%BA/HNSLS2.jpg" alt="少林寺2" title="少林寺2"><br>太热，太累，不走了<br>我说实话<br><em>这个5A景区感觉被商业化了，里面好多卖东西的，我还买不起:(，看那个武术表演表演怎么还卖东西</em><br>最后赶紧打道回府<br>结果因为附近没有停车场，停的又远，顶着38度高温走了大概3-5公里，坐在车上我感觉人都麻了<br>下山后看车的温度计，<strong>41度</strong>！！！！<br>真炸了，有没有河南本地人告诉我为什么河南比武汉都热啊！！！！！！！！</p><h2 id="Day2-洛阳博物馆-赏历史文物"><a href="#Day2-洛阳博物馆-赏历史文物" class="headerlink" title="Day2 洛阳博物馆 赏历史文物"></a>Day2 洛阳博物馆 赏历史文物</h2><p>少林寺已过，我们就去了洛阳博物馆<br>进去又要排队，又是一大群人，<strong>河南的人多全国出名啊</strong><br>在里面，仿佛身处历史风流中，从远古时期到唐宋开放包容<br>有许多王朝定都洛阳，可见其地理位置重要性<br><em>一个市级博物馆像省级博物馆，牛逼</em><br>放几张我觉得很有意思的文物照片吧<br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86/HNMUSEUM.jpg" alt="博物馆1" title="博物馆1"><br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86/HNMUSEUM1.jpg" alt="博物馆2" title="博物馆2"><br><img src="https://r2.zuanshijia.top/%E6%B4%9B%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86/HNMUSEUM2.jpg" alt="博物馆3" title="博物馆3"></p><h2 id="Day2-小浪底-叹黄河之美"><a href="#Day2-小浪底-叹黄河之美" class="headerlink" title="Day2 小浪底 叹黄河之美"></a>Day2 小浪底 叹黄河之美</h2><p>晚上吃完饭，又驱车至小浪底去看黄河<br>作为 一个湖北人，一个只见过长江的人，见到母亲河–黄河 The Yellow River，心里自豪<br>拍摄是在小浪底黄河大桥上面拍的<br><img src="https://r2.zuanshijia.top/%E9%BB%84%E6%B2%B3/YELLOWRIVERBRIDGE.jpg" alt="黄河1" title="黄河1"><br><img src="https://r2.zuanshijia.top/%E9%BB%84%E6%B2%B3/YELLOWRIVERNEAR.jpg" alt="黄河2" title="黄河2"></p><h2 id="Day2-结束"><a href="#Day2-结束" class="headerlink" title="Day2 结束"></a>Day2 结束</h2><p>10点赶回酒店，极速睡觉，玩兴奋了，半夜睡不着</p><h1 id="Day3-启程"><a href="#Day3-启程" class="headerlink" title="Day3 启程"></a>Day3 启程</h1><p>最后一天，把酒店的房退了后我们驱车前往最后一个景点：龙门石窟</p><h2 id="Day3-龙门石窟"><a href="#Day3-龙门石窟" class="headerlink" title="Day3 龙门石窟"></a>Day3 龙门石窟</h2><p>到达这里，这里停车位好找<br>走入大门，又给我震撼，人是真多啊！！！<br>交警分流了，我们进入的比较快<br><img src="https://r2.zuanshijia.top/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F/HNLMSK1.jpg" alt="石窟1" title="石窟1"><br>大门挺好看啊<br><img src="https://r2.zuanshijia.top/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F/HNLMSK2.jpg" alt="石窟2" title="石窟2"><br>其间有很多奇妙的石窟，我这里只展示对于我来说震撼到我的<br><img src="https://r2.zuanshijia.top/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F/HNLMSK3.jpg" alt="石窟3" title="石窟3"><br>人多ing<br><img src="https://r2.zuanshijia.top/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F/HNLMSK4.jpg" alt="石窟4" title="石窟4"><br>感觉自己要成仙了~~<br><img src="https://r2.zuanshijia.top/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F/HNLMSK5.jpg" alt="石窟5" title="石窟5"><br>来个远景~~<br><img src="https://r2.zuanshijia.top/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F/HNLMSK6.jpg" alt="石窟6" title="石窟6"><br>后面还有很多，懒得拍了，走累了<br>到达停车位，继续驱车</p><h2 id="Day3-午饭–临走前的准备"><a href="#Day3-午饭–临走前的准备" class="headerlink" title="Day3 午饭–临走前的准备"></a>Day3 午饭–临走前的准备</h2><p>玩的比较迟，2点多才吃上午饭，牛肉汤加烩面和几个凉菜</p><h2 id="Day3-离开河南"><a href="#Day3-离开河南" class="headerlink" title="Day3 离开河南"></a>Day3 离开河南</h2><p>所谓天下没有不散的宴席，离别的日子悄然到来，还是那个收费站，还是那个开元大道<br>继续驱车600公里返回武汉</p><h2 id="Day3-到达武汉"><a href="#Day3-到达武汉" class="headerlink" title="Day3 到达武汉"></a>Day3 到达武汉</h2><p>晚上10点多，到G4京港澳，10点40左右，到达四环线，在11点下了高速，PM11:14，成功到达武汉，九个小时啊，人都坐麻了</p><h1 id="河南之行总结"><a href="#河南之行总结" class="headerlink" title="河南之行总结"></a>河南之行总结</h1><p>这一次的河南之旅我觉得很有意思，见到了所谓的”山河四省”之一，也让我见识到了什么才叫真正的人多，让我流连忘返<br>同时，也让我尝到了河南的特色，虽然没吃到胡辣汤，但是其他的也满足了<br>河南，我们下次<strong>再别</strong></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>湖北远安县FM收听报告-清明专题</title>
+      <link href="/posts/60933.html"/>
+      <url>/posts/60933.html</url>
+      
+        <content type="html"><![CDATA[<div class="note success flat"><p>远安县山比较多，AM中波全县效果都不好，所以在此不做记录<br>县内常用FM，所以仅此在这里做FM记录</p></div><div class="note info flat"><p>本报告为站长实地考察所测，真实性毋庸置疑</p></div><div class="note warning flat"><p><strong>免责声明</strong><br>本报告仅作电台频率数据客观记录及收听学习之用，请勿用于商业甚至非法用途，违者必究。因使用者自身原因造成严重后果的，<strong>本站不负有责任</strong>。<br><strong>其次，本报告仅作为对公民的提醒和查阅资料，本网站负责人并无其他用途</strong></p></div><h1 id="设备信息与接收情况"><a href="#设备信息与接收情况" class="headerlink" title="设备信息与接收情况"></a>设备信息与接收情况</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">日期:2025.4.4</span><br><span class="line">天气: FB(良好，多云，无风)、</span><br><span class="line">时间: 21:00-21:30(BeiJing Time)</span><br><span class="line">RX(接收机): TECSUN PL-600</span><br><span class="line">ANT(天线):原装</span><br><span class="line">ANT. GAIN(天线增益):DX</span><br></pre></td></tr></table></figure><h1 id="FM报告"><a href="#FM报告" class="headerlink" title="FM报告"></a>FM报告</h1><p>FREQ.，BCL等均为业余无线电专用术语，除”UOE”外为简写。<br>QRM：<br>    含义：人为干扰（如其他电台或电子设备干扰）。<br>QRN：<br>    含义：自然干扰（如雷电、太阳噪声）。<br>QSB：<br>    含义：信号衰落（信号强度周期性波动）。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">FREQ. 频率                    UOE(unity of effect 整体效果)       BCI(干扰)            </span><br><span class="line">89.1Mhz                                 poor                         no             </span><br><span class="line">90.1Mhz                                 normal                       no     </span><br><span class="line">93.5Mhz                                 poor                         QRN</span><br><span class="line">94.1Mhz                                the best                      QRN </span><br><span class="line">94.7Mhz                                 normal                       QSB</span><br><span class="line">95.4Mhz                                 bad                          QRN</span><br><span class="line">96.1Mhz(96.0Mhz杂散域)   远安台          Good                         no</span><br><span class="line">96.3Mhz                                 normal                       no</span><br><span class="line">97.3Mhz                                 poor                         QRM</span><br><span class="line">98.6Mhz                                the Best                      no</span><br><span class="line">103.3Mhz                                Good                         no</span><br><span class="line">104.9Mhz                                normal                       no</span><br></pre></td></tr></table></figure><h1 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h1><p>站长正在准备业余无线电考试，希望能够拿到证吧，时间大概在暑假时候，最近太忙了要准备期中期末考试</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 无线电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网站成功运行一周年!</title>
+      <link href="/posts/5528.html"/>
+      <url>/posts/5528.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本网站的创建是个意外<br>站长初次尝试使用hexo搭建博客，没想到成功了，就一直沿用到现在，并将其作为重点开发对象<br>一次一次不断的优化，最终打磨出了现在的博客</p><h1 id="网站域名历史"><a href="#网站域名历史" class="headerlink" title="网站域名历史"></a>网站域名历史</h1><p>Q：为什么要把域名历史道出来？<br>A：域名是给人第一印象</p><h2 id="EUORG"><a href="#EUORG" class="headerlink" title="EUORG"></a>EUORG</h2><p>继Freenom用不了后，就用我2022年注册的euorg域名，现如今此域名<a href="https://chengtext.eu.org/">https://chengtext.eu.org</a> 依旧沿用</p><h2 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h2><p>后面Github Pages被墙了后，网站一直到2024年7-8月无法访问<br>域名也从EUORG跌倒了<a href="https://zuanshijia.github.io/">https://zuanshijia.github.io</a></p><h2 id="EUORG-1"><a href="#EUORG-1" class="headerlink" title="EUORG"></a>EUORG</h2><p>使用Cloudflare服务恢复大陆正常访问后，再次启动EUORG域名</p><h2 id="EUORG-USKG"><a href="#EUORG-USKG" class="headerlink" title="EUORG USKG"></a>EUORG USKG</h2><p>在euorg的基础上添加一个uskg域名（因为euorg的域名样式我觉得不好看）</p><h2 id="EUORG-2"><a href="#EUORG-2" class="headerlink" title="EUORG"></a>EUORG</h2><p>uskg域名失效，重新换回EUORG</p><h2 id="TOP-EUORG"><a href="#TOP-EUORG" class="headerlink" title="TOP EUORG"></a>TOP EUORG</h2><p>在2025年一月份的时候注册<a href="https://zuanshijia.top/">https://zuanshijia.top</a>  域名，为主线路(Cloudflare方案)并增开备用线路<a href="https://blog.zuanshijia.top/">https://blog.zuanshijia.top</a>  (采用Netlify方案)</p><h1 id="网站现状"><a href="#网站现状" class="headerlink" title="网站现状"></a>网站现状</h1><p>现在正常运行，正常更新</p><h1 id="未来展望"><a href="#未来展望" class="headerlink" title="未来展望"></a>未来展望</h1><p>希望这个网站能陪我走完整个学生生涯，并能以此通过这个媒介来认识许多志同道合的朋友！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>韩国:KBS WORLD收听报告附QSL卡/无线电篇003</title>
+      <link href="/posts/10066.html"/>
+      <url>/posts/10066.html</url>
+      
+        <content type="html"><![CDATA[<div class="note flat"><p><em>“电波无国界，声音有温度——真正的国际广播，是KBS用心搭建的桥梁。”</em></p></div><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>用outlook发出收听报告后，周五我就拿着我的战损德生PL-380和天线AN-05去听<br>听到主持人念到我的名字，我热血沸腾啊，还把我对节目的感想说出来了</p><h1 id="今日"><a href="#今日" class="headerlink" title="今日"></a>今日</h1><p>今天上午十一点左右收到了来自韩国的一个快递<br>等了30天整，终于收到了我的QSL卡<br>今年的QSL和我在网上所看到的以前的韩国KBS卡有点不一样<br>信件中有一支笔，QSL卡，三张收听报告单，一张KBS国际广播电台宣传</p><p>信封正面<br><img src="https://photos.chengtext.eu.org/img/mailys.jpg" alt="信封1" title="信封1"></p><p>信封反面<br><img src="https://photos.chengtext.eu.org/img/backYS.jpg" alt="信封2" title="信封2"></p><p>QSL卡正面<br><img src="https://photos.chengtext.eu.org/img/QSL.jpg" alt="QSL1" title="QSL1"></p><p>QSL卡背面，翻译:你的第一个韩国朋友<br><img src="https://photos.chengtext.eu.org/img/QSLbackYS.jpg" alt="QSL2" title="QSL2"></p><p>韩国KBS宣传册，介绍韩广的历史<br><img src="https://photos.chengtext.eu.org/img/introduceYS.jpg" alt="xc1" title="xc1"></p><p>报告单(三张)<br><img src="https://photos.chengtext.eu.org/img/reportYS.jpg" alt="bg1" title="bg1"></p><p>还有一支笔，就不拍了</p><h1 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h1><p>写邮件给它们寄收听报告，或者在他们的官网给他们答题<br>写清楚什么时间(时期加UTC时间)，什么设备，什么频率，SINPO代码，和对节目的感想<br>我听的是6095Khz</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无线电 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电台收听报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国:国家授时中心(NTSC)收听报告附QSL卡/无线电篇002</title>
+      <link href="/posts/23758.html"/>
+      <url>/posts/23758.html</url>
+      
+        <content type="html"><![CDATA[<div class="note flat"><p><em>“时间是最公正的裁判，而精确的时钟是人类与时间对话的语言。”</em></p></div><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>这张卡是我去年收到的，已经整整一年，至于为什么现在才发教程……..，因为那个时候博客还没成型，博客成型后QSL卡这事给忘了</p><h1 id="国家授时中心QSL卡内容"><a href="#国家授时中心QSL卡内容" class="headerlink" title="国家授时中心QSL卡内容"></a>国家授时中心QSL卡内容</h1><h2 id="先说一下QSL卡是什么"><a href="#先说一下QSL卡是什么" class="headerlink" title="先说一下QSL卡是什么"></a>先说一下QSL卡是什么</h2><mark class="hl-label red">请谨慎甄别信息内容</mark> <p>知周所众。既然是卡，那么他就有纪念意义<br>你猜的没错，QSL卡就是拥有纪念意义的<br>QSL卡的全称叫 收听凭证卡</p><h2 id="国家授时中心-QSL内容"><a href="#国家授时中心-QSL内容" class="headerlink" title="国家授时中心 QSL内容"></a>国家授时中心 QSL内容</h2><p>正面是国家授时中心的大门，有NTSC的标识<br>反面的左边是国家授时中心的发播台的频率时间，右边是你收听的信息及负责人签名</p><h1 id="国家授时中心发播台频率"><a href="#国家授时中心发播台频率" class="headerlink" title="国家授时中心发播台频率"></a>国家授时中心发播台频率</h1><p>2500Khz(2.5Mhz) 北京时间:15:30-9:00<br>5000Khz(5.0Mhz) 北京时间:00:00-24:00<br>10000Khz (10.0Mhz) 北京时间: 00:00-24:00<br>15000Khz (15.0Mhz) 北京时间:9:00-17:00<br>100Khz(LW长波) 北京时间:13:30-21:30<br>推荐频率: 5000Khz&#x2F;10000Khz<br>信号最好:15000Khz(湖北武汉)</p><h1 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h1><p>可以写信封,<strong>电子邮件(推荐)</strong>，快递，挂号信</p><h2 id="邮寄地址"><a href="#邮寄地址" class="headerlink" title="邮寄地址"></a>邮寄地址</h2><p>联系人：刘长虹<br>地址：陕西临潼 18 号信箱 中科院国家授时中心<br>邮编：710600</p><h2 id="电子邮箱地址和获取方式"><a href="#电子邮箱地址和获取方式" class="headerlink" title="电子邮箱地址和获取方式"></a>电子邮箱地址和获取方式</h2><p>Email收信人：<a href="mailto:&#99;&#104;&#49;&#x31;&#55;&#x40;&#110;&#x74;&#x73;&#x63;&#x2e;&#x61;&#99;&#46;&#99;&#x6e;">ch117@ntsc.ac.cn</a></p><mark class="hl-label orange">别忘了改模板里的数据啊，尤其是模板里面有大括号的！！</mark> <mark class="hl-label orange">收听时间统一填写北京时间！！</mark> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">主题：收听报告和QSL卡请求</span><br><span class="line">尊敬的国家授时中心BPM短波授时台负责人:</span><br><span class="line">您们好！</span><br><span class="line">现将于 &#123;在这里填上你收听的日期&#125; 在BPM短波授时台上的收听报告记录如下，望得到贵台的QSL收听证明卡！</span><br><span class="line">收听日期和时间:</span><br><span class="line">频率:</span><br><span class="line">设备:</span><br><span class="line">天线:</span><br><span class="line">接收内容:</span><br><span class="line">收听存在的主要问题:</span><br><span class="line">SINPO:</span><br><span class="line"></span><br><span class="line">联系方式</span><br><span class="line">收信地址:</span><br><span class="line">姓名:</span><br><span class="line">电话号码:</span><br><span class="line">呼号:</span><br><span class="line"></span><br><span class="line">此致，</span><br><span class="line">敬礼！</span><br><span class="line">&#123;你的名字&#125;</span><br></pre></td></tr></table></figure><p>发送完后不会给你回信，直接给你发过来，我武汉这里是没有出邮费的</p><div class="note warning flat"><p>请务必按照收听的实际情况填写，这是BPM知道问题的唯一途径，若有条件录制视屏，可以录制视频附件到邮箱里面，不录也可以，但是要把接收内容写具体</p></div><p>无线电篇之下集预告:KBS</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无线电 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电台收听报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>嗨!朋友，交换友链吗？</title>
+      <link href="/posts/26585.html"/>
+      <url>/posts/26585.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="申请要求"><a href="#申请要求" class="headerlink" title="申请要求"></a>申请要求</h1><ol><li>能够正常安全的使用https访问</li><li>建议是个人和小团体(不含商业性质)的网站申请</li><li>不包含暴力，色情，恐怖等不良信息的网站</li><li>若想添加友链，先将我站添加至您的网站</li><li>域名既可以是顶级域名(譬如.cn .top .xyz)也可以是二级域名(譬如eu.org us.kg)</li></ol><h1 id="本站信息"><a href="#本站信息" class="headerlink" title="本站信息"></a>本站信息</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">名称: zuanshijia&#x27;s blog</span><br><span class="line">链接: https://zuanshijia.top</span><br><span class="line">描述: 本站用来分享技术，日常</span><br><span class="line">图标: https://zuanshijia.top/img/favicon.png</span><br><span class="line">网站页面截图:https://photos.chengtext.eu.org/img/截屏.PNG</span><br></pre></td></tr></table></figure><h1 id="申请方式-指南"><a href="#申请方式-指南" class="headerlink" title="申请方式&#x2F;指南"></a>申请方式&#x2F;指南</h1><ol><li>点击<strong>页面下面</strong>两个的其中一个按钮(两个按钮都行)，然后会把申请格式自动复制到评论中，按要求填写发出去就行。</li><li>可以去这里的评论界面发送申请: <a href="https://zuanshijia.top/link/index.html">友链界面</a> </li><li>亦可发送站长的邮箱(见下面联系方式)<br>格式为</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">网站名称:</span><br><span class="line">网站链接:</span><br><span class="line">网站头像:</span><br><span class="line">网站简介:</span><br><span class="line">网站截屏:</span><br></pre></td></tr></table></figure><p>网站截屏可以自行提供，若未提供网站截图或其失效，<code>我将默认使用我站失效图片</code><br><em>别问我为什么不用API，问就是API太慢了 :(</em><br>若未提供网站图标(头像)，或者其失效，<code>我将前往您的站点寻找头像链接！</code></p><h2 id="我的联系方式"><a href="#我的联系方式" class="headerlink" title="我的联系方式"></a>我的联系方式</h2><h3 id="E-mail"><a href="#E-mail" class="headerlink" title="E-mail"></a>E-mail</h3><p><a href="mailto:&#x63;&#x68;&#101;&#x6e;&#103;&#100;&#x61;&#x69;&#108;&#x75;&#x6e;&#x40;&#x31;&#x36;&#x33;&#46;&#x63;&#111;&#x6d;">chengdailun@163.com</a>(日常使用较多)<br><a href="mailto:&#x63;&#100;&#x6c;&#x40;&#109;&#97;&#105;&#x6c;&#x2e;&#122;&#x75;&#x61;&#110;&#x73;&#x68;&#x69;&#x6a;&#105;&#97;&#46;&#116;&#x6f;&#x70;">cdl@mail.zuanshijia.top</a>(专门处理事务，与各部门专业使用)<br><a href="mailto:&#x32;&#53;&#x32;&#x34;&#51;&#53;&#49;&#x33;&#x32;&#55;&#x40;&#113;&#113;&#46;&#x63;&#x6f;&#109;">2524351327@qq.com</a>(日常使用较多)<br><a href="mailto:&#x63;&#104;&#x65;&#x6e;&#x67;&#x64;&#x61;&#105;&#x6c;&#117;&#110;&#x73;&#x74;&#x65;&#x76;&#x65;&#64;&#111;&#x75;&#x74;&#108;&#111;&#x6f;&#107;&#x2e;&#x63;&#111;&#109;">chengdailunsteve@outlook.com</a>(国际邮件较多)<br><a href="mailto:&#122;&#x75;&#97;&#x6e;&#115;&#104;&#105;&#106;&#x69;&#x61;&#51;&#50;&#49;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#x6d;">zuanshijia321@gmail.com</a>(评论系统邮箱，日常使用较少)</p><p>当你发送完申请后，站长会在<strong>72小时</strong>内回复邮件并添加友链！<br>如果站长没有及时回复，请加QQ:2524351327进行提醒！</p><h1>**欢迎各站前来加入!**</h1><div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (中文)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (英文)</button></div><link rel="stylesheet" href="/css/kslink.css"><script src="/js/kslink.js"></script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 友链 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国:湖北远安FM/SW实地考察报告 / 无线电篇001</title>
+      <link href="/posts/47178.html"/>
+      <url>/posts/47178.html</url>
+      
+        <content type="html"><![CDATA[<div class="note flat"><p><em>“远安不远，心向往之”</em></p></div><div class="note success flat"><p>远安县山比较多，AM中波全县效果都不好，所以在此不做记录<br>SW频率太多，不做SINPO记录</p></div><div class="note info flat"><p>本报告为站长实地考察所测，真实性毋庸置疑<br>地址:湖北省宜昌市远安县鸣凤镇鸣凤沮河二桥<br>设备: 德胜TECSUN PL-380<br>天线: &#x2F;</p></div><div class="note warning flat"><p><strong>免责声明</strong><br>本报告仅作电台频率数据客观记录及收听学习之用，请勿用于商业甚至非法用途，违者必究。因使用者自身原因造成严重后果的，<strong>本站不负有责任</strong>。<br><strong>其次，本报告仅作为对公民的提醒和查阅资料，本网站负责人并无其他用途</strong></p></div><h1 id="1-25日报告FM信息"><a href="#1-25日报告FM信息" class="headerlink" title="1.25日报告FM信息:"></a>1.25日报告FM信息:</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">实地考察FM      88.3Mhz   94.1Mhz(中国之声)  96.00Mhz  98.5Mhz(湖北之声AM版)  103.3Mhz  107.6(远安人民广播电台)      </span><br><span class="line">SINPO      室内 54455       34233            11111        55555             24232        43354</span><br><span class="line">           室外 55555       55445            42323        55555             44554        54454</span><br><span class="line">           窗边 54555       54454            42223        55555             43554        54335</span><br></pre></td></tr></table></figure><div class="note warning flat"><p>官宣远安人民广播电台为106Mhz  SINPO:&#x2F; 实地没有考察到，但经再次考察推理，经远安电视台所播出电视节目及主持人声音综合考察，确定FM107.6为远安人民广播电台<br>站长已与远安融媒体中心沟通，等待回信</p></div><h1 id="1-26日报告SW信息"><a href="#1-26日报告SW信息" class="headerlink" title="1.26日报告SW信息:"></a>1.26日报告SW信息:</h1><p>实地考察SW</p><div class="note info flat"><p>SW侦测条件</p><ol><li>使用收音机自带天线</li><li>天气无雨无风无雷</li><li>使用ETM短时扫频</li><li>AM BW调为4Khz</li></ol></div><p>侦测时间: 15:35<br>5000 6230 7230 9225 9530 9620 9685 9720 9820 9830 9985 10000 11600 11610 11640 11660 11670 11680 11685 11735 11760 11800 11825 11905 11915 11935 13530 13640 13750<br>15280 15360 15370 15480 15550 17550 17710 17890 18900 21490 21530 21800</p><h1 id="1-27日报告SW信息"><a href="#1-27日报告SW信息" class="headerlink" title="1.27日报告SW信息"></a>1.27日报告SW信息</h1><p>侦测时间: 20:50<br>3985(日语电台与中国之声串台) 5000 5925 5945 6000 6060 6100 6105 6115 6125 6190 6200 7210 7225 7230 7265 7275 7290 7305 7335 7345 7375 7385 7410 7430 7485 7515 9275 9400 9410 9435 9440 9515 9540 9550 9600 9620 9635 9645 9660 9680 9710 9730 9750 9760 9780 9810 9815 9850 9885 9900 11510 11760 11775 11935 12015 13770 15360</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无线电 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电台收听报告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MenuetOS-仅1.44M的操作系统体验及感受</title>
+      <link href="/posts/52944.html"/>
+      <url>/posts/52944.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言–介绍"><a href="#前言–介绍" class="headerlink" title="前言–介绍"></a>前言–介绍</h1><p>Menuet OS是汇编语言所开发的系统，占用小，运行速度快，其特点是<strong>软盘大小仅为1.44MB</strong>，ISO可引导boot完整版本大小为<strong>65MB</strong>，也算小的了。<br>Menuet OS支持64位系统，32位系统。 64位为闭源系统，32位为开源系统，本文章不过多赘述，仅展示x64(64位)版本<br>此系统<strong>麻雀虽小，五脏俱全</strong> 可上网，可以玩游戏，可以看本地视频，更炸裂的是，能开<strong>服务器</strong><br>但是，只有<mark class="hl-label default">英文版本</mark> <br>官网: <a href="https://menuetos.net/">https://menuetos.net</a></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>可以去官网下载，但是官网用的是Google Drive，中国大陆因特殊原因无法访问<br>本站提供下载:<br>Menuet OS IMG 1.44MB 经过压缩zip <a href="https://zuanshijia.lanzout.com/iZIEX2kzhhli">蓝奏云MenuetOS1.55.50软盘下载</a>   访问密码:1145<br>Menuet OS ISO 65MB 经过压缩zip <a href="https://zuanshijia.lanzout.com/i9e7R2kzhhhe">蓝奏云MenuetOS1.55.50镜像下载</a>   访问密码:1145</p><h1 id="体验"><a href="#体验" class="headerlink" title="体验"></a>体验</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>我这里演示软盘版本<br>我在虚拟机上演示，对于实体机，可以用Rufus将Menuet的镜像应用到U盘里面，U盘启动<br>对于虚拟机，尽量用Vmware，不推荐<strong>hyper-v</strong>或<strong>VirtualBox</strong>，因Menuet特殊性，鼠标驱动会有点难受，用Vmware相对来说好一点，用VirtualBox或者hyper-v的话虚拟机系统里的鼠标会与本机鼠标造成冲突<br> Vmware配置:<img src="https://photos.chengtext.eu.org/img/MenU1.PNG" alt="MenU1" title="MenU1"><br>软盘配置好后，开机<br>出现这个<br> <img src="https://photos.chengtext.eu.org/img/MenU2.PNG" alt="MenU2" title="MenU2"><br> 我们输入2(不要用键盘最右边的数字，用字母上面的数字键，否则打不出来)<br> 随后，你就进去了</p><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p>进去后，由于Menuet不会安装在硬盘里面，所以你进去系统后不要把软盘拔出来<br>进去后长这样，没截屏好，将就着看吧<br><img src="https://photos.chengtext.eu.org/img/MenU3.PNG" alt="MenU3"></p><p>里面有很多的游戏，还有一些开发工具<br>同时，网上还有一些大神开发了中文版本，但是我没有找到</p><h3 id="上网"><a href="#上网" class="headerlink" title="上网"></a>上网</h3><p>Menuet刚开始是没有IP的，所以我们要手动配置IP<br>在system&#x2F;setup 中，选择网卡为i8254x并按”Apply”按钮<br>然后到internet&#x2F;setup&#x2F;dhcp中先request一下，再Apply一下。<br>最后到internet&#x2F;setup&#x2F;staccfg中查看是否拿到了dhcp分配的ip，按一下Apply<br>这样，网络就配置好了<br><img src="https://photos.chengtext.eu.org/img/MenU4.PNG" alt="MenU4"><br>我不知道什么原因，好像只能访问wap网</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>MenuetOS运行快，负载低，但是它运行软件的要求是运存要达到512MB。<br>可以打造一个小型服务器，但是兼容性没那么好因为它既不是Linux也不是Windows<br>如果你只是拿来玩玩，那他的可玩性还是很高的</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 技术分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2024年度总结报告</title>
+      <link href="/posts/39360.html"/>
+      <url>/posts/39360.html</url>
+      
+        <content type="html"><![CDATA[<p>时间如白驹过隙，一去不复返<br>回望过去，我们总结经验，痛定思痛，向着更美好的明天，展望未来<br>以下是站长的2024-2025年年度总结报告</p><h1 id="IT"><a href="#IT" class="headerlink" title="IT"></a>IT</h1><h2 id="博客-网站"><a href="#博客-网站" class="headerlink" title="博客&#x2F;网站"></a>博客&#x2F;网站</h2><p>对于网站，目前我搭建了三个网站，分别是:</p><ol><li><strong>钻石甲博客网站</strong><a href="https://chengtext.eu.org/">https://chengtext.eu.org</a></li><li><strong>钻石甲自研开发网站</strong><a href="https://chengnb.eu.org/">https://chengnb.eu.org</a></li><li><strong>钻石甲新一代博客测试网站</strong>(域名出了点问题)<br>这三个网站我的重心放在 钻石甲的博客网站(也就是本网站)<br>这个博客网站我在2024年3月份搭建，起初的主题很难看，后来经改动成现在主题</li></ol><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>上面的钻石甲新一代博客测试网站是我使用的自家的机顶盒刷机所搭建而成<br>系统是Hinas的Ubuntu魔改<br>流畅，负载高了<br><strong>这是站长第一次频繁接触Linux系统</strong></p><h1 id="生活-About-My-Life"><a href="#生活-About-My-Life" class="headerlink" title="生活 About My Life"></a>生活 About My Life</h1><h2 id="2024旅游所去的地方"><a href="#2024旅游所去的地方" class="headerlink" title="2024旅游所去的地方"></a>2024旅游所去的地方</h2><ol><li>湖北省 宜昌车溪风景区  2024国庆</li><li>上海市全市 2024暑假</li></ol><h2 id="2024学业"><a href="#2024学业" class="headerlink" title="2024学业"></a>2024学业</h2><p>较相比于2023年我的学业有了质的飞跃，开创了两个巅峰时期</p><h1 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h1><h2 id="Phigros"><a href="#Phigros" class="headerlink" title="Phigros"></a>Phigros</h2><p>没啥好看的<br>2024年7月入坑<br>截止2025.1.1日的好成绩如下图<br><img src="https://photos.chengtext.eu.org/img/phi1.PNG" alt="Phi1" title="Phi1"><br><img src="https://photos.chengtext.eu.org/img/phi2.PNG" alt="Phi2" title="Phi2"><br><img src="https://photos.chengtext.eu.org/img/phi3.PNG" alt="Phi3" title="Phi3"><br><img src="https://photos.chengtext.eu.org/img/phi4.PNG" alt="Phi4" title="Phi4"><br>现在站长的rks为13.03<br>站长的大部分歌曲都是蓝V</p><h3 id="BlueArchive-蔚蓝档案"><a href="#BlueArchive-蔚蓝档案" class="headerlink" title="BlueArchive 蔚蓝档案"></a>BlueArchive 蔚蓝档案</h3><p>国服刚开时候入坑 2023年8月<br>上半年玩的很频繁<br>下半年基本没咋玩<br>2025年准备好好玩一下，把最终章搞完，我才49级<br>厨: 白洲梓 等级:49<br><strong>哎呀我靠 蔚蓝档案，我的救赎！</strong><br>主页<br><img src="https://photos.chengtext.eu.org/img/ba1.PNG" alt="ba1" title="ba1"><br>主页2<br><img src="https://photos.chengtext.eu.org/img/ba2.PNG" alt="ba2" title="ba2"><br>卡池 致亲爱的，最初的你<br><img src="https://photos.chengtext.eu.org/img/ba3.PNG" alt="ba3" title="ba3"><br>卡池 长期招募<br><img src="https://photos.chengtext.eu.org/img/ba4.PNG" alt="ba4" title="ba4"></p><h3 id="Honkai-Star-Rail-崩铁"><a href="#Honkai-Star-Rail-崩铁" class="headerlink" title="Honkai: Star Rail 崩铁"></a>Honkai: Star Rail 崩铁</h3><p>2024年初入坑<br>运气有点差，每次都歪<br>但是<br>抽到了<br>厨: 流萤<br>主线肝不动了，准备弃坑一段时间<br>等级:54<br><img src="https://photos.chengtext.eu.org/img/bet1.PNG" alt="bet1" title="bet1"><br><img src="https://photos.chengtext.eu.org/img/bet2.PNG" alt="bet2" title="bet2"><br><img src="https://photos.chengtext.eu.org/img/bet3.PNG" alt="bet3" title="bet3"><br><img src="https://photos.chengtext.eu.org/img/bet4.PNG" alt="bet4" title="bet4"></p><h3 id="Car-parking"><a href="#Car-parking" class="headerlink" title="Car parking"></a>Car parking</h3><p>没啥好说的，满改跑车零百1.50秒</p><h3 id="原神"><a href="#原神" class="headerlink" title="原神"></a>原神</h3><p>我这辈子也不玩原神<br>狗日的我55级<br>2022年10月2日入坑<br>期间的每一次抽卡都给我歪</p><h1 id="社交"><a href="#社交" class="headerlink" title="社交"></a>社交</h1><h2 id="哔哩哔哩Bilibili"><a href="#哔哩哔哩Bilibili" class="headerlink" title="哔哩哔哩Bilibili"></a>哔哩哔哩Bilibili</h2><p><img src="https://photos.chengtext.eu.org/img/2024.jpg" alt="拍照1" title="拍照1"><br>玩B站快三年了，怎么还是LV5</p><h1 id="2025年计划目标-博客"><a href="#2025年计划目标-博客" class="headerlink" title="2025年计划目标(博客)"></a>2025年计划目标(博客)</h1><p>建立图床<br>设置重定向http跳到https(Cloudflare这个问题很头疼)<br>网站优化</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>喧嚣 无处不在<br>启程 就在此刻<br>2024 渐行渐远<br>我们能做的 只有改进自己<br>祝各位 2025 无怨无忧!</p><h1 id="年度报告幕后"><a href="#年度报告幕后" class="headerlink" title="年度报告幕后"></a>年度报告幕后</h1><p>其实我打算这个文章我29号就给他写了，但是吧，29号不是完整的2024<br>我就推迟到了2025年元旦<br>这篇文章 我构思了很久<br>最终只能呈现出这种结果</p><p>最后 祝愿各位 2025年 新年快乐!</p><p>策划: 钻石甲工作室附属钻石甲个人网络工作 钻石甲水世界<br>时间:2025年1月1日</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2025年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>移动机顶盒刷机Hinas海纳斯系统(海思USB刷机方法)</title>
+      <link href="/posts/60295.html"/>
+      <url>/posts/60295.html</url>
+      
+        <content type="html"><![CDATA[<div class="note warning flat"><p>本教程旨在让用户更容易掌握 NAS 系统的使用方法，<br>不对各项内置软件的代码以及专利置评，所描述的使用方法仅仅是建议，<br>使用者学习过程中造成的任何折腾带来的损失，不承担任何责任。</p><p>由站长所改写，使读者更能读懂</p></div><div class="note success flat"><p>由于机顶盒限制，每一次的刷机都为”砖头模式”，理论上可以无限刷机</p></div><p>官网: <a href="https://bbs.histb.com/">https://bbs.histb.com/</a></p><h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><p>站长此处仅讲解USB短接刷机方法</p><h1 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h1><ol><li>1个U盘（不论大小，但是不要太大，最好不超过32GB，2.0协议，FAT32文件系统，最好带读写指示灯，方便观察状态）</li><li>短接工具 镊子，剪刀，小铜线，能导电的都可以</li><li>机顶盒型号的短接借口自行查找，我的是湖北移动MG101零配置，CPU为Hi3798(同CPU型号应该短接点是一样的，在下文我会放图)</li><li>Windows7及以上的Windows系统</li><li>机顶盒</li></ol><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><h2 id="步骤一-U盘准备"><a href="#步骤一-U盘准备" class="headerlink" title="步骤一 U盘准备"></a>步骤一 U盘准备</h2><p>格式化U盘，格式为Fat32或者Fat16<br>并下载固件系统，确定你的盒子是什么fastboot型号，我的盒子是MV101，属于MV100，他有MV100,200,300<br>fastboot有mdmo1a ,mdmo1b,mdmo1c,mdmo1b,mdmo1f,mdmo1g<br>我的是mdmo1g(<strong>你不知道的你就一个一个试，总有一个是对的</strong>)<br><strong>固件包只有armv7l的系统</strong><br>解压到U盘的根目录，U盘准备工作完成</p><h2 id="步骤二-准备短接"><a href="#步骤二-准备短接" class="headerlink" title="步骤二 准备短接"></a>步骤二 准备短接</h2><p>确定型号<br><img src="https://photos.chengtext.eu.org/img/hinas1.jpg" alt="截图1" title="截图1"><br>短接方法<br><img src="https://photos.chengtext.eu.org/img/hinas2.jpg" alt="截图2" title="截图2"></p><h2 id="步骤三-开始"><a href="#步骤三-开始" class="headerlink" title="步骤三 开始"></a>步骤三 开始</h2><ol><li>接好电源，把USB插入盒子</li><li>把网线接入盒子</li><li>按<strong>以下步骤刷机</strong><br>关闭电源—–&gt;短接住——&gt;打开电源——&gt;5至8秒一定要松开短接—-&gt;机顶盒自动刷机</li></ol><p>注意事项</p><mark class="hl-label red">5-8秒</mark> 一定要放开短接，否则文件无法写入<p>刷机过程超过10分钟的是不正常状态，要重新来或者更换固件<br>如果无法通过显示屏观察刷机状态，那你可以通过USB读写指示灯观察，在闪烁说明正在处理刷机，短接后没闪说明fastboot刷机不符</p><p>刷机时的状态<br><img src="https://photos.chengtext.eu.org/img/hinas3.png" alt="截图4" title="截图4"></p><h2 id="步骤四-刷后"><a href="#步骤四-刷后" class="headerlink" title="步骤四 刷后"></a>步骤四 刷后</h2><p><img src="https://photos.chengtext.eu.org/img/hinas4.png" alt="截图3" title="截图3"><br>此图片出现，代表刷机完成<br>此刻你的机顶盒服务器大功告成了一大半，最后还需要你查找IP<br>进入路由器的管理去查找，也可以ping主机名去查找<br>路由器是最简单的查找方式<br>Ping 示例: ping hi3798mv100</p><p>找到主机后，浏览器输入IP<br>进入主界面<br><img src="https://photos.chengtext.eu.org/img/hinas5.png" alt="截图5" title="截图5"></p><p>恭喜，你的机顶盒刷机完成可当服务器使用！<br>比树莓派差不了多少</p><h1 id="刷机后注意"><a href="#刷机后注意" class="headerlink" title="刷机后注意"></a>刷机后注意</h1><p>文件管理器密码和Alist密码 admin admin<br>终端默认密码: 用户root 密码ecoo1234<br>修改密码</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">root@hi3798mv100:~# passwd root</span><br><span class="line">New password:</span><br><span class="line">Retype new password:</span><br><span class="line">passwd: password updated successfully</span><br><span class="line">root@hi3798mv100:~# passwd ubuntu</span><br><span class="line">New password:</span><br><span class="line">Retype new password:</span><br><span class="line">passwd: password updated successfully</span><br><span class="line">root@hi3798mv100:~#</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>因为Linux的保护机制，在你输入密码时密码是不可见的，但实际上你已输入。</p><h1 id="此系统推荐资源"><a href="#此系统推荐资源" class="headerlink" title="此系统推荐资源"></a>此系统推荐资源</h1><p>由于是armv7l，所以可用资源有限</p><h2 id="面板"><a href="#面板" class="headerlink" title="面板"></a>面板</h2><p>首选1panel ，因为宝塔面板不支持armv7l</p><h2 id="终端控制或ftp管理"><a href="#终端控制或ftp管理" class="headerlink" title="终端控制或ftp管理"></a>终端控制或ftp管理</h2><p>filezila</p><h2 id="内网穿透"><a href="#内网穿透" class="headerlink" title="内网穿透"></a>内网穿透</h2><p>Cloudflare Tunnel<br>Cloudflare Tunnel在Cloudflare网站上是没有armv7l版本的，你可以选择docker运行(不推荐，不仅不能开机自动运行而且安装的时候docker镜像死都pull不下来)<br>最佳办法: 上Github找cloudflare官方的armv7l版本的Cloudflarrd的deb，照样用</p><h2 id="Windows-KMS"><a href="#Windows-KMS" class="headerlink" title="Windows KMS"></a>Windows KMS</h2><p>Hinas内置了KMS激活系统</p><h2 id="网盘"><a href="#网盘" class="headerlink" title="网盘"></a>网盘</h2><p>cloudreve</p><h2 id="Minecraft-Server"><a href="#Minecraft-Server" class="headerlink" title="Minecraft Server"></a>Minecraft Server</h2><mark class="hl-label 服务器">不推荐搭建Minecraft</mark> <p>我那个盒子储存6GB，运存1GB，负载区500MB左右，开个Minecraft服务器运存能炸掉<br>配置不够，如果硬要搭建，先安装Java ，再考虑MSCManager面板</p><h2 id="Blog-推荐指数-1-5"><a href="#Blog-推荐指数-1-5" class="headerlink" title="Blog(推荐指数:1-5)"></a>Blog(推荐指数:1-5)</h2><p>top1. 首选typecho，功能和主题是少了点，但是负载小，运行快 推荐指数:<mark class="hl-label green">5</mark> <br>top2. 其次Halo 负载较高，占用较高，功能强大 推荐指数:<mark class="hl-label orange">3</mark> <br>top3. Wordpress 负载高，占用高，功能十分强大，主题各种各样 推荐指数<mark class="hl-label red">2</mark> <br>top4. hexo转服务器 负载较低，占用较低，功能较强大，但是必须会折腾，否则一点差错就会报错，且部署过程十分麻烦，网上的教程也非常少 <mark class="hl-label default">1</mark> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2024年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>留言板</title>
+      <link href="/posts/18872.html"/>
+      <url>/posts/18872.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="本站留言板"><a href="#本站留言板" class="headerlink" title="本站留言板"></a>本站留言板</h1><p><strong>请使用<a href="https://zuanshijia.top/">https://zuanshijia.top</a></strong>链接</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p>请遵守中华人民共和国法律，请勿发送非法内容，一经发现立刻删除举报，遵守法律法规</p><h1 id="留言方式"><a href="#留言方式" class="headerlink" title="留言方式"></a>留言方式</h1><p><strong>请在下方”评论”中留言</strong></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 留言板 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>国内省级部分频率表</title>
+      <link href="/posts/61099.html"/>
+      <url>/posts/61099.html</url>
+      
+        <content type="html"><![CDATA[<div class="note warning flat"><p><strong>免责声明</strong><br>本频率表仅作电台频率数据客观记录及收听学习之用，请勿用于商业甚至非法用途，违者必究。因使用者自身原因造成严重后果的，<strong>本站不负有责任</strong>。<br><strong>其次，本文章仅作为对公民的提醒和查阅资料，本网站负责人并无其他用途</strong></p></div><h1 id="第一部分-中央人民广播电台"><a href="#第一部分-中央人民广播电台" class="headerlink" title="第一部分 中央人民广播电台"></a>第一部分 中央人民广播电台</h1><div class="note success flat"><p>中央人民广播电台是隶属于中央广播电视总台(CMG)的中国国家级广播电台。中央人民广播电台频<br>率数据来自微信公众号”短波DRM”，文章资源在此处。</p></div><h2 id="CNR-1-中国之声"><a href="#CNR-1-中国之声" class="headerlink" title="CNR 1 中国之声"></a>CNR 1 中国之声</h2><p>华北服务区<br>0425-0730 6000<br>0730-1900 9645<br>1900-次日0205 6000<br>东北服务区<br>0425-0600 6125, 7215, 7305<br>0600-0700 6125, 7215, 11750<br>0700-0800 7215, 9675, 11750<br>0800-1800 9675, 11750<br>1800-2000 6125, 7305<br>2000-次日0205 6125, 7305, 7365<br>华东服务区<br>0425-0800 9500, 9830<br>0800-0900 9500, 9830, 11760<br>0900-1530 9500, 11760, 17565<br>1530-2000 9500, 9830, 11760<br>2000-次日0205 9500, 9830<br>华中服务区<br>0425-次日0205 7230<br>华南服务区<br>0425-0700 5985, 9500, 9810, 9830<br>0700-0800 5985, 9500, 9830, 13610<br>0800-0900 9500, 9830, 11760, 11850, 13610<br>0900-1900 9500, 11760, 11850, 13610, 17565<br>0900-1530 9500, 11760, 11850, 13610, 17565<br>1530-1800 9500, 9830, 11760, 11850, 13610<br>1800-2000 5965, 9500, 9830, 11760, 13610<br>2000-2100 5965, 9500, 9830, 13610<br>2100-次日0205 5965, 9500, 9810, 9830<br>西南服务区<br>0425-0700 5945, 6125, 7290, 9710<br>0700-0730 7290, 9710, 15480, 17595<br>0730-0800 7290, 11720, 15480, 17595<br>0800-0900 7290, 11720, 15480, 17595<br>0900-1800 11720, 15370, 15480, 17595, 17890<br>1800-1900 7290, 11720, 15370, 15480, 17595<br>1900-2100 6125, 7290, 9710, 15480<br>2100-次日0205 5945, 6125, 7290, 9710<br>青海服务区<br>0000-0205 4800<br>0425-0800 4800<br>0800-2400 4800, 6075<br>新疆服务区<br>0425-0700 9860, 11925<br>0700-0730 11925, 12045<br>0730-2000 12045, 17580<br>2000-次日0205 9860, 11925<br>西藏服务区<br>0425-0700 6080, 7275, 9845<br>0700-0800 6080, 9845, 15380<br>0800-1900 9630, 15380, 17550<br>1900-2000 6080, 7275, 17550<br>2000-次日0205 6080, 7275, 9845<br>内蒙服务区<br>0400-次日0130 4750<br>DRM 试验频率<br>0600-0800 9655(华北华东)<br>0800-0900 9655(华北华东)<br>0900-1200 13825(华南), 15180(华北), 17770(华北), 17830(华北)<br>1200-1600 13810(华北), 13825(华南), 17770(华北), 17830(华北)<br>1600-1700 9655(华北华东), 13810(华北), 13825(华南), 17770(华北)<br>1700-1800 9655(华北华东), 13810(华北)<br>1800-1900 9655(华北华东), 13810(华北)<br>1900-2000 9655(华北华东)<br>DRM 不定时动态测试频率<br>1800-2400 6180(华北)<br>0500-次日0100 15760(西南)<br>0600-次日0100 21530(西北西南)</p><h2 id="CNR-2-经济之声"><a href="#CNR-2-经济之声" class="headerlink" title="CNR 2 经济之声"></a>CNR 2 经济之声</h2><p>华北服务区<br>0455-0700 7245<br>0700-2100 9620<br>2100-次日0005 7245<br>华东服务区<br>0455-0700 6040, 7265, 9515<br>0700-0800 7265, 9515, 11800<br>0800-0900 7265, 11800, 17625<br>0900-1700 9810, 11800, 17625<br>1700-2000 9515, 9810, 11800<br>2000-2030 7375, 9515, 9810<br>2030-次日0005 7265, 7375, 9515<br>华中服务区<br>0455-0800 7315<br>0800-0900 7315, 9720<br>0900-1800 9720, 11660<br>1800-1900 11660<br>1900-次日0005 7315<br>华南服务区<br>0455-0700 5995, 6040, 7265, 9515, 9570<br>0700-0800 5995, 7265, 9515, 11800, 9570<br>0800-0830 7265, 9570, 11750, 11800, 17625<br>0830-0900 7265, 11750, 11800, 13630, 17625<br>0900-1700 9810, 11750, 11800, 13630, 17625<br>1700-1900 9515, 11750, 9810, 11800, 13630<br>1900-1930 6030, 9515, 9810, 11800, 13630<br>1930-2000 6030, 9515, 9780, 9810, 11800<br>2000-2030 6030, 7375, 9515, 9780, 9810<br>2030-次日0005 6030, 7265, 7375, 9515, 9780<br>西南服务区<br>0455-0630 6065<br>0630-2000 11670<br>2000-0005 6065<br>青海服务区<br>0455-0700 6190, 7370, 9775<br>0700-0800 6190, 9775, 11610<br>0800-1900 7220, 11610, 15270<br>1900-2000 7220, 9775, 11610<br>2000-2100 3985, 9775, 11610<br>2100-次日0005 3985, 7370, 9775<br>新疆服务区<br>0455-0800 9820, 11740<br>0800-0900 11695, 11740<br>0900-1900 11695, 15540<br>1900-次日0005 9820, 11740<br>西藏服务区<br>0455-0800 6090, 7335, 7360, 9755<br>0800-0830 6090, 7335, 11785, 12080<br>0830-0900 6090, 11785, 11915, 12080<br>0900-1800 9570, 11785, 11915, 12080<br>1800-1900 9570, 9755, 11785, 11915<br>1900-2100 6090, 9755, 11785, 11915<br>2100-次日0005 6090, 9755, 7335, 7425</p><h2 id="CNR-5-台海之声"><a href="#CNR-5-台海之声" class="headerlink" title="CNR 5 台海之声"></a>CNR 5 台海之声</h2><p>主要覆盖华东华南(对台广播)，短波广播全部为北京491台对163度方向以100kW发射。<br>0455-0700 549, 765, 837(MW), 5925, 7385, 9665<br>0700-0800 549, 765, 837(MW), 5925, 9665, 11935<br>0800-1700 549, 765, 837(MW), 9685, 11620, 11935<br>1700-1800 549, 765, 837(MW), 7385, 9685, 11620<br>1800-次日0105 549, 765, 837(MW), 5925, 7385, 9665<br>注：另有中波频率MW1116，每天早晚播音，不同月份播出时间略有差异。</p><h2 id="CNR-6-神州之声"><a href="#CNR-6-神州之声" class="headerlink" title="CNR 6 神州之声"></a>CNR 6 神州之声</h2><p>主要覆盖华南(对台广播)，短波广播为北京491台&#x2F;南宁954台对163度方向以100kW发射。<br>0555-0900 684, 909, 1089(MW), 6165, 9420, 12010<br>0900-1000 684, 909, 1089(MW), 11905, 12010, 15710<br>1000-1700 684, 909, 1089(MW), 11905, 13670, 15710<br>1700-1800 684, 909, 1089(MW), 6165, 9420, 13670<br>1800-次日0005 684, 909, 1089(MW), 6165, 9420, 11775<br>注：闽南话&#x2F;客家话&#x2F;普通话交替播出。</p><h2 id="CNR-7-粤港澳大湾区之声"><a href="#CNR-7-粤港澳大湾区之声" class="headerlink" title="CNR 7 粤港澳大湾区之声"></a>CNR 7 粤港澳大湾区之声</h2><p>喀什对106度方向向华南以500kW发射；呼和浩特694台100kW 175度方向向华南以100kW发射。<br>除晚上2100-2200播送潮州话节目，2200-2300播出客家话以外，其他时段播出的语言均为粤语。<br>0455-0800 1215(MW), 7345, 9745<br>0800-0900 1215(MW), 9745, 15550<br>0900-1900 1215(MW), 13770, 15550<br>1900-次日0205 1215(MW), 7345, 13770</p><h2 id="CNR-8-民族之声"><a href="#CNR-8-民族之声" class="headerlink" title="CNR 8 民族之声"></a>CNR 8 民族之声</h2><p>主要对我国北方少数民族广播。短波广播全部为北京491台以100kW发射。<br>普通话<br>0900-1000 9610, 11810<br>1300-1400 9610, 11810<br>1600-1700 5975, 9785<br>2200-2305 5975, 9785<br>蒙古语<br>0455-0900 9610, 11810<br>1000-1300 9610, 11810<br>朝鲜语<br>1400-1600 5975, 9785<br>1700-2200 5975, 9785</p><h2 id="CNR-11-藏语广播"><a href="#CNR-11-藏语广播" class="headerlink" title="CNR 11 藏语广播"></a>CNR 11 藏语广播</h2><p>宝鸡四方山广电724台对255度方向以100kW向西藏发射。<br>0555-0800 6010, 7350, 9480<br>0800-1900 9530, 11685, 15570<br>1900-2100 9480, 9530, 11685<br>2100-次日0005 6010, 7350, 9480</p><h2 id="CNR-13-维吾尔语广播"><a href="#CNR-13-维吾尔语广播" class="headerlink" title="CNR 13 维吾尔语广播"></a>CNR 13 维吾尔语广播</h2><p>灵石广电725台对286&#x2F;298度方向以100kW向新疆发射。<br>0755-1900 13700, 15390<br>1900-2200 9420, 13700<br>2200-次日0205 9420, 9890</p><h2 id="CNR-17-哈萨克语广播"><a href="#CNR-17-哈萨克语广播" class="headerlink" title="CNR 17 哈萨克语广播"></a>CNR 17 哈萨克语广播</h2><p>灵石广电725台对286&#x2F;298度方向以100kW向新疆发射。<br>0755-2000 11630, 12055<br>2000-次日0205 9630, 11630<br>Tips：关于中央人民广播电台直播串流，请见：<a href="https://blog.xmgspace.me/swdx.html">https://blog.xmgspace.me/swdx.html</a></p><h1 id="第二部分-省市级电台"><a href="#第二部分-省市级电台" class="headerlink" title="第二部分 省市级电台"></a>第二部分 省市级电台</h1><h2 id="北部湾之声-BBR"><a href="#北部湾之声-BBR" class="headerlink" title="北部湾之声(BBR)"></a>北部湾之声(BBR)</h2><p>南宁广电954台50kW对225度方向发射。<br>0700-0800 5050, 9820 普通话&#x2F;粤语<br>0800-0900 5050, 9820 普通话&#x2F;多种语言<br>1745-1800 5050, 9820 音乐<br>1800-1900 5050, 9820 普通话<br>1900-2100 5050, 9820 越南语<br>2100-2325 5050, 9820 普通话&#x2F;多种语言<br>2325-2345 5050, 9820 泰语<br>2345-2400 5050, 9820 音乐<br>注：BBR部分时段语言掺杂较多，语言较杂，具体请参阅这份节目表：BBR广西北部湾之声A24节目时间<br>表 - Cahcn的自留地</p><h2 id="中国华艺广播公司-CHBC"><a href="#中国华艺广播公司-CHBC" class="headerlink" title="中国华艺广播公司(CHBC)"></a>中国华艺广播公司(CHBC)</h2><p>福州&#x2F;厦门15kW全向发射。<br>1155-2300(MW) 873<br>1750-2000 6185<br>注：时段仅供参考，因6185kHz有VOK强烈的同频干扰导致无法收听。</p><h2 id="甘南广播电视台-PBS-Gannan"><a href="#甘南广播电视台-PBS-Gannan" class="headerlink" title="甘南广播电视台(PBS Gannan)"></a>甘南广播电视台(PBS Gannan)</h2><h2 id="甘南藏族自治州合作市15kW全向发射。"><a href="#甘南藏族自治州合作市15kW全向发射。" class="headerlink" title="甘南藏族自治州合作市15kW全向发射。"></a>甘南藏族自治州合作市15kW全向发射。</h2><p>0655-0920 3990, 5970<br>1155-1420 3990, 5970<br>1825-2145 3990, 5970<br>注：节目内容为甘南广播电视台综合广播。时段来自HFCC，仅供参考。</p><h2 id="贵州广播电视台-PBS-Guizhou"><a href="#贵州广播电视台-PBS-Guizhou" class="headerlink" title="贵州广播电视台(PBS Guizhou)"></a>贵州广播电视台(PBS Guizhou)</h2><p>贵阳10kW 全向发射，时段仅供参考。<br>0935-2330 7275</p><h2 id="呼伦贝尔广播电视台-PBS-Hulun-Buir"><a href="#呼伦贝尔广播电视台-PBS-Hulun-Buir" class="headerlink" title="呼伦贝尔广播电视台(PBS Hulun Buir)"></a>呼伦贝尔广播电视台(PBS Hulun Buir)</h2><p>呼伦贝尔海拉尔10kW 全向发射，时段仅供参考。<br>普通话<br>0530-1500 3900<br>1700-2240 3900<br>蒙语<br>0550-1030 6080<br>1725-2230 6080</p><h2 id="湖南广播电视台-PBS-Hunan"><a href="#湖南广播电视台-PBS-Hunan" class="headerlink" title="湖南广播电视台(PBS Hunan)"></a>湖南广播电视台(PBS Hunan)</h2><p>湖南湘潭发射，时段核实困难，仅供参考。<br>0430-0900 4990<br>1100-1300 4990<br>1700-次日0100 4990</p><h2 id="内蒙古广播电视台-PBS-Neimenggu"><a href="#内蒙古广播电视台-PBS-Neimenggu" class="headerlink" title="内蒙古广播电视台(PBS Neimenggu)"></a>内蒙古广播电视台(PBS Neimenggu)</h2><p>均为呼和浩特839台以50kW发射。普通话节目可能有部分时段转播CNR1，蒙古语节目可能有部分<br>时段转播CNR8蒙古语节目。<br>普通话<br>0550-次日0005 7420, 9520<br>蒙语<br>0550-0000 6040, 7270, 9750<br>青海广播电视台(PBS Qinghai)<br>普通话<br>0540-2400 6145, 9780<br>藏语<br>0650-0000 5990, 9850</p><h2 id="四川广播电视台-PBS-Sichuan"><a href="#四川广播电视台-PBS-Sichuan" class="headerlink" title="四川广播电视台(PBS Sichuan)"></a>四川广播电视台(PBS Sichuan)</h2><p>四川民族广播，西昌358度方向或成都全向以50kW发射。<br>普通话<br>0600-0700 6060, 7225<br>康巴藏语<br>0730-0930 6060, 7225<br>1900-1930 6060, 7225<br>2000-2315 6060, 7225<br>安多藏语<br>0700-0730 6060, 7225<br>1930-2000 6060, 7225<br>凉山彝语<br>1800-1900 6060, 7225</p><h2 id="新疆广播电视台-PBS-Xinjiang"><a href="#新疆广播电视台-PBS-Xinjiang" class="headerlink" title="新疆广播电视台(PBS Xinjiang)"></a>新疆广播电视台(PBS Xinjiang)</h2><p>乌鲁木齐50&#x2F;100kW发射，时段仅供参考。如对应频率无信号，可尝试其他时段的频率。<br>普通话<br>0700-1100 5960, 7260, 7310, 11770<br>1100-2000 7260, 9600, 9835, 11770<br>2000-2200 5960, 7260, 9600, 11770<br>2200-次日0200 5960, 7260, 7310, 11770<br>维吾尔语<br>0700-1000 6120, 7205, 7275, 11885<br>1000-1100 6120, 7275, 11885, 13670<br>1100-2000 7275, 9560, 11885, 13670<br>2000-2200 6120, 7275, 11885, 13670<br>2200-次日0200 6120, 7205, 7275, 11885<br>哈萨克语<br>0730-1130 6015, 7340<br>1130-2000 7340, 9470<br>2000-次日0200 6015, 7340<br>蒙古语<br>0730-1130 6190, 7230<br>1300-1830 7230, 9510<br>2000-次日0200 6190, 7230<br>柯尔克孜语<br>1100-1330 9705, 11975<br>1800-2030 9705, 11975</p><h2 id="西藏人民广播电台-PBS-Xizang"><a href="#西藏人民广播电台-PBS-Xizang" class="headerlink" title="西藏人民广播电台(PBS Xizang)"></a>西藏人民广播电台(PBS Xizang)</h2><p>均为拉萨602台50&#x2F;100kW发射。<br>普通话<br>0400-1100 4820, 5935, 6050, 7240, 7450<br>1100-1700 4820, 5935, 6050, 11860, 11950<br>1700-次日0200 4820, 5935, 6050, 7240, 7450<br>藏语<br>0100-0205 4905, 4920, 6025, 6110, 6130, 6200, 7255, 7385<br>0450-1000 4905, 4920, 6025, 6110, 6130, 6200, 7255, 7385<br>1000-1130 4905, 4920, 6025, 6110, 6130, 6200, 9490, 9580<br>1130-1500 4905, 4920, 6025, 6130, 6200, 9490, 9580, 9730<br>1600-1730 4905, 4920, 6025, 6130, 6200, 9490, 9580, 9730<br>1730-1800 4905, 4920, 6025, 6130, 6200, 7385, 9490, 9730<br>1800-1900 4905, 4920, 6025, 6130, 6200, 7255, 7385, 9730<br>1900-2400 4905, 4920, 6025, 6110, 6130, 6200, 7255, 7385<br>英语<br>0000-0100 4905, 4920, 6025, 6110, 6130, 6200, 7255, 7385<br>1500-1600 4905, 4920, 6025, 6130, 6200, 9490, 9580, 9730</p><h2 id="云南广播电视台-PBS-Yunnan"><a href="#云南广播电视台-PBS-Yunnan" class="headerlink" title="云南广播电视台(PBS Yunnan)"></a>云南广播电视台(PBS Yunnan)</h2><p>昆明沙朗20kW(7210kHz)、50kW(6035kHz)发射。6035kHz呼号云南国际广播，7210kHz呼号云<br>南民族广播，时段仅供参考。<br>云南国际广播<br>普通话<br>0600-0800 6035<br>1830-2100 6035<br>2130-2300 6035(另一来源是2200播音结束)<br>越南语<br>1800-1830 6035<br>2100-2130 6035</p><h2 id="云南民族广播"><a href="#云南民族广播" class="headerlink" title="云南民族广播"></a>云南民族广播</h2><p>0700-0745 7210 拉祜语<br>0745-0830 7210 傈僳语<br>0830-0915 7210 西双版纳傣语<br>0915-1000 7210 德宏傣语<br>1000-1045 7210 景颇语<br>1045-1100 7210 普通话<br>1900-1945 7210 德宏傣语<br>1945-2030 7210 景颇语<br>2030-2115 7210 傈僳语<br>2115-2200 7210 西双版纳傣语<br>2200-2245 7210 拉祜语<br>2245-2300 7210 普通话</p><h2 id="金陵之声-Voice-of-Jinling"><a href="#金陵之声-Voice-of-Jinling" class="headerlink" title="金陵之声(Voice of Jinling)"></a>金陵之声(Voice of Jinling)</h2><p>南京以100kW对159度(台湾岛)发射。<br>2030-2305 6200</p><h2 id="海峡之声广播电台-Voice-of-Strait"><a href="#海峡之声广播电台-Voice-of-Strait" class="headerlink" title="海峡之声广播电台(Voice of Strait)"></a>海峡之声广播电台(Voice of Strait)</h2><p>福建福州552台以50kW对140度方向发射。<br>0625-2400(MW) 666, 783, 1269<br>1650-1935 4900</p><p>如果当地无法收听到上述频率，可以通过专业的SDR接收机接收，免费的KiwiSDR收听地址：<a href="http://rx.linkfanel.net/">http://rx.linkfanel.net/</a></p><p>本文章转自: <a href="https://blog.xmgspace.me/archives/international-shortwave-to-cn.html">https://blog.xmgspace.me/archives/international-shortwave-to-cn.html</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2024年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 无线电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常分享:我是如何找到我被别人拿走的快递找回来的</title>
+      <link href="/posts/44489.html"/>
+      <url>/posts/44489.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Chapter1-初寻"><a href="#Chapter1-初寻" class="headerlink" title="Chapter1 初寻"></a>Chapter1 初寻</h1><p>今天下午1点左右，正当我准备打开电脑优化博客的时候，突然一条消息让我急忙关掉电脑<br><img src="https://photos.chengtext.eu.org/img/post11.PNG" alt="截图1" title="截图1"><br>好好好，我只能跑出去了<br>我换好鞋子，一个弹射起步直接冲出门外面<br><img src="https://photos.chengtext.eu.org/img/post12.jpg" alt="拍照1" title="拍照1"><br>还拍了张照<br>但是，<strong>我竟然跑到隔壁小区了！！！</strong><br>这不得不让我跑回去<br>到了快递驿站后，我将我的快递单号和情况报给驿站负责人，结果负责人说被拿走了<br>我嘞个雷啊，我便与我母亲(母亲买给我的东西)开始激烈的讨论<br>那个那我快递的人与我母亲的手机号同尾号！！！<br>完了，我开始找寻取回快递的方法，驿站负责人有电话号码，结果打不通。我妈和我姐又在打(我妈回老家了，只能和我进行通话)。<br>打不通啊！！！他肯定设置了陌生人打不进来！！<br>我本想完了，便开始责问驿站负责人。驿站负责人也在飞速查阅和打电话。</p><h1 id="Chatper2-中寻"><a href="#Chatper2-中寻" class="headerlink" title="Chatper2 中寻"></a>Chatper2 中寻</h1><p>在一通解决后，还是没有办法<br>此刻我想报警的心都有了，就在我刚点下通话键的那一刻<br>我猛然想到了调监控，结果前脚跑到物业，别人说那一片都没有监控，完了。</p><h1 id="Chapter3-终寻"><a href="#Chapter3-终寻" class="headerlink" title="Chapter3 终寻"></a>Chapter3 终寻</h1><p>就又在我准备报警的时候，突然驿站负责人给我打来电话，以下是通话录音<br><em><strong>通话录音略，站长测试时无法于网站内播放</strong></em><br>我激动的向那个地方跑去，结果那条路上都是狗<br>没法，拿了块砖头<br>到了206栋，我头也不回的上去，结果只有五楼。我再次询问，发现跑错了单元<br>这下换了单元，有6楼<br>我敲门，是一个男人开门<br>我询问:您好，请问您是不是拿错了一个快递？尾号**** （尾号涉及隐私）<br>他拿来，果然是我的<br>他还说:同尾号啊，这东西不是我的我就放这了<br>我赶忙谢谢后拿了就走了</p><p><img src="https://photos.chengtext.eu.org/img/post13.jpg" alt="拍照2" title="拍照2"></p><p>在这里感谢驿站负责人！<br>                                                                              by zuanshijia 于2024&#x2F;10&#x2F;27 日写</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2024年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>上海市广播电台频率表  持续更新版</title>
+      <link href="/posts/2050.html"/>
+      <url>/posts/2050.html</url>
+      
+        <content type="html"><![CDATA[<div class="note success flat"><p>此表仅上海地区可用 如有漏掉或错误，请发邮件 <a href="mailto:&#x63;&#104;&#101;&#x6e;&#x67;&#100;&#x61;&#105;&#108;&#117;&#x6e;&#x73;&#x74;&#x65;&#118;&#101;&#64;&#x6f;&#x75;&#x74;&#108;&#x6f;&#x6f;&#107;&#46;&#x63;&#111;&#109;">chengdailunsteve@outlook.com</a> 或者<a href="mailto:&#x63;&#x68;&#x65;&#x6e;&#x67;&#100;&#97;&#x69;&#x6c;&#x75;&#110;&#64;&#x31;&#x36;&#51;&#x2e;&#x63;&#111;&#109;">chengdailun@163.com</a><br>标粗的为特别提醒，标斜的为格外提醒</p><p>本表更新时间:2024.10.25</p></div><div class="note info flat"><p>此版为站长通过有效渠道与实地考察证实，数据错误还请纠正<br>标粗的为站长可以清晰收到的电台 设备:德生PL-380 天线:德生AN-05 上海收听地点: 上海市普陀区铜川路地铁14号线真光路站口<br>资料来源: 站长自行ETM（ETM指临时扫频储存，与ATS相差不大，但ETM是临时使用，ATS为长期使用）  百度文库Baidu   Radiomap    广播迷</p></div><div class="note warning flat"><p>本频率表仅作电台频率数据客观记录及收听学习之用，请勿用于商业甚至非法用途，违者必究。因使用者自身原因造成严重后果的，<strong>本站不负有责任</strong>。<br><strong>其次，本文章仅作为对公民的提醒和查阅资料，本网站负责人并无其他用途</strong><br>请注意站长收听地点，站长无法保证整个市都能收到以下电台，如果无法收听，请自行ETM或者ATS。<strong>此表仅作为参考</strong></p></div><h1 id="上海"><a href="#上海" class="headerlink" title="上海"></a>上海</h1><h2 id="东方明珠广播电视发射塔FM"><a href="#东方明珠广播电视发射塔FM" class="headerlink" title="东方明珠广播电视发射塔FM"></a>东方明珠广播电视发射塔FM</h2><p>87.9 HIT FM<br>89.9 899都市广播<br>90.9 东广新闻<br>91.4 中央人民广播电台经济之声<br>93.4 上海新闻广播<br>94.0 五星体育<br>94.7 经典音乐广播<br>95.5 中国应急广播中国交通广播-上海部<br>97.2 上海戏剧曲艺广播<br>97.7 第一财经<br>98.1 KFM<br>99.0 中央人民广播电台中国之声<br>101.7 动感101<br>103.7 Love Radio<br>105.7 上海交通广播<br>107.2 上海故事广播<br>107.7 中央人民广播电台音乐之声</p><h2 id="崇明"><a href="#崇明" class="headerlink" title="崇明"></a>崇明</h2><p>88.7 崇明人民广播电台<br>102.5 CRI环球资讯</p><h2 id="嘉定"><a href="#嘉定" class="headerlink" title="嘉定"></a>嘉定</h2><p>100.3 嘉定广播电台</p><h2 id="浦东"><a href="#浦东" class="headerlink" title="浦东"></a>浦东</h2><p>100.1 沸点音乐<br>106.5 东上海之声</p><h2 id="松江"><a href="#松江" class="headerlink" title="松江"></a>松江</h2><p>100.9 松江广播电台</p><h2 id="闵行"><a href="#闵行" class="headerlink" title="闵行"></a>闵行</h2><p>102.7 闵行广播电台</p><h2 id="青浦"><a href="#青浦" class="headerlink" title="青浦"></a>青浦</h2><p>106.7 青浦广播电台</p><h1 id="外地-上海市可收"><a href="#外地-上海市可收" class="headerlink" title="外地(上海市可收)"></a>外地(上海市可收)</h1><p>88.2 嘉兴音乐<br>90.4 宁波老少<br>92.0 宁波新闻<br>92.2&#x2F;104.1 嘉兴交通<br>93.0 浙江交通<br>95.3 江苏新闻<br>95.9 奉贤广播<br>96.2 宝山广播<br>97.4 浙江之声<br>98.6 宁波音乐<br>104.5 浙江女主播<br>105.1 金山广播</p><h1 id="上海-AM-MW"><a href="#上海-AM-MW" class="headerlink" title="上海 AM&#x2F;MW"></a>上海 AM&#x2F;MW</h1><p>540 中国之声<br>657 嘉兴交通<br>603 第一财经<br>648 上海交通<br>702 江苏新闻综合<br>792 899都市<br>810 浙江之声<br>855 经济之声<br>990 上海新闻<br>1044 中国国际放送<br>1107 嘉兴新闻广播<br>1170 中国之声<br>1197 上海戏剧曲艺<br>1296 东广新闻<br>1422 浦江之声<br>1593 中国之声 发射台：常州 武进区横林镇 广电总局623发射台<br>1566 HLAZ FEBC 극동방송 라디오<br>     益友电台<br>     キリスト教放送局<br>     Радио Теос<br>     미국의 소리<br>     자유 아시아 방송 </p><h1 id="上海注意"><a href="#上海注意" class="headerlink" title="上海注意"></a>上海注意</h1><p>本站仅为参考，请自行ETM或者ATS来获取信息</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2024年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 无线电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>湖北省广播电台频率表 2025年最新版本</title>
+      <link href="/posts/5137.html"/>
+      <url>/posts/5137.html</url>
+      
+        <content type="html"><![CDATA[<div class="note success flat"><p>此表仅湖北地区可用 如有漏掉或错误，请发邮件<a href="mailto:&#99;&#104;&#101;&#110;&#103;&#100;&#97;&#x69;&#x6c;&#117;&#110;&#x73;&#116;&#x65;&#118;&#x65;&#x40;&#111;&#x75;&#x74;&#x6c;&#111;&#111;&#x6b;&#x2e;&#99;&#x6f;&#109;">chengdailunsteve@outlook.com</a>或<a href="mailto:&#x63;&#104;&#x65;&#x6e;&#103;&#x64;&#x61;&#105;&#x6c;&#117;&#x6e;&#x40;&#49;&#54;&#51;&#x2e;&#99;&#x6f;&#x6d;">chengdailun@163.com</a>或<a href="mailto:&#x63;&#100;&#108;&#x40;&#x6d;&#x61;&#105;&#108;&#46;&#122;&#117;&#97;&#110;&#x73;&#x68;&#105;&#x6a;&#105;&#x61;&#46;&#116;&#111;&#112;">cdl@mail.zuanshijia.top</a><br>标粗的为特别提醒，标斜的为格外提醒</p><p>本版本更新时间:2025&#x2F;2&#x2F;11</p></div><div class="note info flat"><p>此版为站长通过有效渠道与实地考察证实，数据错误还请纠正<br>目前站长可以确保数据真实的有<strong>武汉</strong>和<strong>荆州(荆州区和沙市)<strong>和</strong>宜昌(远安)</strong><br>标粗的为站长可以清晰收到的电台 设备:德生PL-380 天线:德生AN-05 武汉接收地点：武汉经开沌口街道枫树一路 荆州接收地点：荆州区新南门 宜昌接收地点：远安县鸣凤镇汤家洲一巷(二桥头国家电网)<br>资料来源: 站长自行ETM（ETM指临时扫频储存，与ATS相差不大，但ETM是临时使用，ATS为长期使用）  百度文库Baidu   Radiomap   广播迷 360doc</p></div><div class="note warning flat"><p><strong>免责声明</strong><br>本频率表仅作电台频率数据客观记录及收听学习之用，请勿用于商业甚至非法用途，违者必究。因使用者自身原因造成严重后果的，<strong>本站不负有责任</strong>。<br><strong>其次，本文章仅作为对公民的提醒和查阅资料，本网站负责人并无其他用途</strong><br>请注意站长收听地点，站长无法保证整个市都能收到以下电台（武汉已证实，可以）。如果无法收听，请自行ETM或者ATS。</p></div><h1 id="武汉市"><a href="#武汉市" class="headerlink" title="武汉市"></a>武汉市</h1><h2 id="武汉FM"><a href="#武汉FM" class="headerlink" title="武汉FM"></a>武汉FM</h2><p>88.0 湖北私家车广播<br>88.4 武汉综合广播<br>89.6 武汉交通广播<br>90.5 湖北经济广播<br>90.7 中国音乐电台之声<br>91.2 湖北农村广播<br><strong>92.7 湖北楚天交通广播</strong><br>93.6 武汉青年<br><strong>94.8 中国交通广播–武汉部</strong><br><strong>95.6 中国之声</strong><br>96.6 湖北生活广播<br>97.1 湖北时尚女性广播<br><strong>97.8 中国经济之声</strong><br>98.5 湖北私家车广播<br>99.8 湖北经济广播<br>100.6 武汉经济广播<br>101.8 武汉音乐广播<br>102.6 湖北时尚女性广播（清晰度较高）<br>103.8 湖北经典音乐广播<br><strong>104.6 湖北之声</strong><br>105.2 湖北资讯广播<br>105.8 楚天音乐广播<br>106.3 湖北经典音乐广播<br>107.8 湖北私家车广播（清晰度较高）</p><h2 id="武汉AM-MW-LW"><a href="#武汉AM-MW-LW" class="headerlink" title="武汉AM(MW)&#x2F;LW"></a>武汉AM(MW)&#x2F;LW</h2><p>603 武汉交通广播<br><strong>774 湖北之声</strong><br>873 武汉综合广播<br><strong>1035 中国之声</strong><br><strong>1125 武汉经济广播</strong><br>1179 湖北资讯广播</p><h1 id="荆州市"><a href="#荆州市" class="headerlink" title="荆州市"></a>荆州市</h1><h3 id="荆州区FM"><a href="#荆州区FM" class="headerlink" title="荆州区FM"></a><strong>荆州区</strong>FM</h3><p><strong>89.1 湖北之声</strong><br>90.1 荆州交通广播<br>92.7 楚天交通<br>96.3 荆州之声（荆州综合广播）<br>104.8 中国之声<br><strong>106.3 湖北之声</strong><br>106.8 荆州经典音乐电台</p><h3 id="荆州区AM-MW-LW"><a href="#荆州区AM-MW-LW" class="headerlink" title="荆州区AM(MW)&#x2F;LW"></a>荆州区AM(MW)&#x2F;LW</h3><p>1404 774 湖北之声(1404 KHZ清晰)<br>846 945 湖北农村(846 KHZ清晰)<br>639 中国之声（清晰）<br>621 宜昌综合广播电台(荆州区可以收到，白天较清晰)<br>612 武汉综合广播 (荆州区可以收到，但比较模糊)</p><h1 id="宜昌市"><a href="#宜昌市" class="headerlink" title="宜昌市"></a>宜昌市</h1><h3 id="远安FM"><a href="#远安FM" class="headerlink" title="远安FM"></a>远安FM</h3><p><strong>88.3 宜昌人民广播电台宜昌新闻综合广播（收听效果好）</strong><br>90.1 901交通(此广播疑似荆州区，收听效果差)<br>92.7 楚天交通(收听效果极差)<br><em><strong>94.1 未知，但信号强烈，收音无声</strong></em><br><strong>96.00 中央人民广播电台中国之声(收听效果好)</strong><br><strong>98.5 湖北之声(收听效果好)</strong><br><strong>103.3 (待后续收听报时 站长不知此台 收听效果好)</strong><br><strong>107.6 远安县人民广播电台(白天转播宜昌夷陵1059)</strong></p><div class="note warning flat"><p>注意！！<br>官宣远安县人民广播电台的频率是106.0和98.8(城区)<br>但是站长实地考察并未侦测到这两个频率，反而是107.6!!</p></div><h4 id="远安AM"><a href="#远安AM" class="headerlink" title="远安AM"></a>远安AM</h4><p>612 武汉综合 东90 西270<br>621 宜昌综合 东90 南180 西270 北0<br>639 中国之声 东90 南180 西270 北0<br>774 湖北之声 东90 南180 西270 北0<br>846 湖北农村 北0 南180<br>945 湖北农村 东90 南180 西270 北0<br>1035 中国之声 东90 南180 西270 北0<br>1404 湖北之声 东90 南180 西270 北0<br>1566 (待后续听报时) 东90 南180 西270 北0</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 时间轴 2024年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 无线电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于我</title>
+      <link href="/posts/19487.html"/>
+      <url>/posts/19487.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><p>我是zuanshijia，中文:钻石甲，我从18年开始用这个网名。这个名字……起初我对他的解释是在Minecraft里面的游戏中的钻石甲，但后来我23年退坑MC后，我对这个名字做出新解释。钻石，即坚不可摧，甲，即上等，钻石甲意蕴着追求上等要有着坚不可摧的精神。<br>我来自湖北，是10后，最早的一批10后，已经初二快初三啦。我起初爱好蛮多的:<em>羽毛球，篮球，二次元，IT，语文，无线电</em> 现在就只有羽毛球，IT，二次元和无线电了，我这个人对自己认识的人很热情，不认识的人很冷漠，我时而活泼时而冷酷<br>在同学眼中，我是一个数学不好的黑客，在老师眼中，我是专门调电脑的，在家长眼中，我很冷漠。<br>我成绩还可以，在年级能上前百分之十，但在日常生活中，我语言组织能力差，容易冷场<br>我也喜欢听一些音乐，例如:死一样的痛过，风屿，如愿，等等…..<br>我是从21年开始探索IT领域，20年于西瓜视频开始关注爱比较这个博主(这个博主可以说是他把我引入IT领域)，24年有了自己的服务器(虽然说是一个机顶盒)，但是这也算是一个微型服务器，毕竟他能带动ubuntu。</p><h1 id="网站搭建历程"><a href="#网站搭建历程" class="headerlink" title="网站搭建历程"></a>网站搭建历程</h1><h2 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h2><p>21年下半年开始搭建网站，当时的网站的域名我记得清楚，是cheng.ga和zsjmc.cf，我连DNS解析都不知道怎么写，当时网站界面简陋，是我自己纯用HTMl手写的，当时的网站是现在<a href="https://chengnb.eu.org的前身.后来因学业问题,网站停了一段时间/">https://chengnb.eu.org的前身。后来因学业问题，网站停了一段时间</a></p><h2 id="2022"><a href="#2022" class="headerlink" title="2022"></a>2022</h2><p>准备了一段时间后，于22年下半年年开始搭建自研开发网站，期间尝试hexo博客却失败告终</p><h2 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h2><p>23年freenom停了改用22年4月申请的三个euorg，23年3月-24年1月这一段时间我的网站处于摆烂</p><h2 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h2><p>2024上半年的我对自研开发网站进行改进，想要搭建自研开发网站的博客模式，我自己自学python写了个博客生成器，发现越写越烂，写了后还要部署主页，又开发英文界面又搞英文最终我搞不下去了，后面我在想要不要弄个博客框架，于是我重拾信心，开始搭建于hexo的博客，前者之鉴助我成功，基于hexo的博客大功告成，于2024年3月建成，起初的主题很烂，写个文章一堆bug，后来在哔哩哔哩上面看到了butterfly，后面就一直用butterfly到至今，用Butterfly我小改了一下到现在的样子，但是到2024年的6月份，我的博客无法访问，摆烂至2024年10月左右，后面经过我排查问题发现是Github Pages在武汉地区被墙，换成了CF Pages，正常使用</p><h2 id="2025"><a href="#2025" class="headerlink" title="2025"></a>2025</h2><p>创建了基于我的微型服务器小型博客，现在已关服，历时10天</p><h1 id="现有网站及状态"><a href="#现有网站及状态" class="headerlink" title="现有网站及状态"></a>现有网站及状态</h1><p>持有两个网站</p><ol><li>自研开发 <a href="https://chengnb.eu.org/">https://chengnb.eu.org</a> 第一阶段已停运，我会档案保存，历时830天，并进行第二次的开发</li><li>博客网站 <a href="https://zuanshijia.top/">https://zuanshijia.top</a> 正常运行，我投入大量时间开发的网站，我决定这个网站长期运行，并在上面分享技术和日常</li></ol><h1 id="Q-A"><a href="#Q-A" class="headerlink" title="Q&amp;A"></a>Q&amp;A</h1><h2 id="是否有团队"><a href="#是否有团队" class="headerlink" title="是否有团队"></a>是否有团队</h2><p>没有，三个网站都是我自己开的，域名是我自己买的</p><h2 id="是否想过盈利的想法"><a href="#是否想过盈利的想法" class="headerlink" title="是否想过盈利的想法"></a>是否想过盈利的想法</h2><p>个人不存在盈利想法，毕竟我们都<strong>清白</strong>，我也不想在网站上挂广告。</p><h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>E-mail: <a href="mailto:&#x63;&#x68;&#x65;&#110;&#103;&#x64;&#x61;&#105;&#108;&#x75;&#110;&#64;&#x31;&#x36;&#51;&#46;&#99;&#111;&#109;">chengdailun@163.com</a><br><a href="mailto:&#x63;&#x68;&#x65;&#110;&#x67;&#100;&#x61;&#105;&#108;&#117;&#x6e;&#115;&#116;&#101;&#x76;&#x65;&#x40;&#111;&#x75;&#x74;&#x6c;&#111;&#x6f;&#107;&#46;&#99;&#111;&#x6d;">chengdailunsteve@outlook.com</a><br>QQ: 2524351347(常用) 1965629302(副号)<br>留言板 站长每周末看一次</p><h1 id="授权许可"><a href="#授权许可" class="headerlink" title="授权许可"></a>授权许可</h1><p>若非特殊情况，分享此网站任何内容时，应遵守:<br>署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 关于我 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 关于我 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
