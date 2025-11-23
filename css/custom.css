@@ -1,0 +1,39 @@
+/* 欢迎信息 */
+#welcome-info {
+  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  border-radius: 18px;
+  padding: 8px;
+}
+[data-theme="dark"] #welcome-info {
+  background: #212121;
+}
+/* 背景变暗效果 */
+.darkened-background {
+    position: relative;
+}
+
+.darkened-background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 1;
+}
+
+.darkened-background > * {
+    position: relative;
+    z-index: 2;
+}
+
+/* 针对首页英雄区域 */
+.hero-section::before {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+/* 针对文章卡片背景 */
+.post-bg::before {
+    background: rgba(0, 0, 0, 0.3);
+}
