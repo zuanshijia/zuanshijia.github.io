@@ -1,0 +1,7 @@
+/* 字体css */
+@font-face{
+  font-family: 'ziti'; 
+  font-display: swap;
+  src: url('/fonts/ziti.woff2') format("truetype");
+}
+
