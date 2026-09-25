@@ -8,9 +8,51 @@
     
     <atom:link href="https://zuanshijia.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>无线电呼号:BH6SNU</description>
-    <pubDate>Sat, 08 Nov 2025 09:19:08 GMT</pubDate>
+    <description>与你的日常，便是奇迹</description>
+    <pubDate>Fri, 27 Feb 2026 01:08:27 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>做好自己,Be yourself</title>
+      <link>https://zuanshijia.top/posts/41589.html</link>
+      <guid>https://zuanshijia.top/posts/41589.html</guid>
+      <pubDate>Fri, 27 Feb 2026 00:57:26 GMT</pubDate>
+      
+      <description>做好自己，问心无愧</description>
+      
+      
+      
+      
+      <category domain="https://zuanshijia.top/categories/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
+      
+      
+      <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
+      
+      
+      <comments>https://zuanshijia.top/posts/41589.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2025年度总结报告</title>
+      <link>https://zuanshijia.top/posts/26109.html</link>
+      <guid>https://zuanshijia.top/posts/26109.html</guid>
+      <pubDate>Sat, 27 Dec 2025 04:29:21 GMT</pubDate>
+      
+      <description>2025年年度报告</description>
+      
+      
+      
+      
+      <category domain="https://zuanshijia.top/categories/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/">年度报告</category>
+      
+      
+      <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
+      
+      
+      <comments>https://zuanshijia.top/posts/26109.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>业余无线电:近几月经验杂谈</title>
@@ -23,7 +65,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2025%E5%B9%B4/">时间轴 2025年</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E5%88%86%E4%BA%AB/">无线电分享</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
@@ -50,6 +92,8 @@
       
       
       
+      <category domain="https://zuanshijia.top/categories/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
+      
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
       
@@ -75,7 +119,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E6%8A%A5%E5%91%8A/">无线电报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E7%94%B5%E5%8F%B0%E6%94%B6%E5%90%AC%E6%8A%A5%E5%91%8A/">电台收听报告</category>
@@ -102,7 +146,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E6%8A%A5%E5%91%8A/">无线电报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E7%94%B5%E5%8F%B0%E6%94%B6%E5%90%AC%E6%8A%A5%E5%91%8A/">电台收听报告</category>
@@ -129,6 +173,8 @@
       
       
       
+      <category domain="https://zuanshijia.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      
       
       <category domain="https://zuanshijia.top/tags/%E5%8D%9A%E5%AE%A2%E9%AD%94%E6%94%B9%E8%AE%B0%E5%BD%95/">博客魔改记录</category>
       
@@ -147,6 +193,8 @@
       
       
       
+      
+      <category domain="https://zuanshijia.top/categories/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
@@ -167,6 +215,8 @@
       
       
       
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E6%8A%A5%E5%91%8A/">无线电报告</category>
+      
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
       
@@ -185,6 +235,8 @@
       
       
       
+      
+      <category domain="https://zuanshijia.top/categories/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/">年度报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
@@ -205,7 +257,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E6%8A%A5%E5%91%8A/">无线电报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E7%94%B5%E5%8F%B0%E6%94%B6%E5%90%AC%E6%8A%A5%E5%91%8A/">电台收听报告</category>
@@ -226,7 +278,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E5%88%86%E4%BA%AB/">无线电分享</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E7%94%B5%E5%8F%B0%E6%94%B6%E5%90%AC%E6%8A%A5%E5%91%8A/">电台收听报告</category>
@@ -272,7 +324,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E6%8A%A5%E5%91%8A/">无线电报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E7%94%B5%E5%8F%B0%E6%94%B6%E5%90%AC%E6%8A%A5%E5%91%8A/">电台收听报告</category>
@@ -293,6 +345,8 @@
       
       
       
+      <category domain="https://zuanshijia.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      
       
       <category domain="https://zuanshijia.top/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
       
@@ -312,7 +366,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2025%E5%B9%B4/">时间轴 2025年</category>
+      <category domain="https://zuanshijia.top/categories/%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A/">年度报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
@@ -333,7 +387,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2024%E5%B9%B4/">时间轴 2024年</category>
+      <category domain="https://zuanshijia.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
@@ -360,6 +414,8 @@
       
       
       
+      <category domain="https://zuanshijia.top/categories/%E7%95%99%E8%A8%80%E4%B8%93%E6%A0%8F/">留言专栏</category>
+      
       
       <category domain="https://zuanshijia.top/tags/%E7%95%99%E8%A8%80%E6%9D%BF/">留言板</category>
       
@@ -379,7 +435,7 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2024%E5%B9%B4/">时间轴 2024年</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A0%E7%BA%BF%E7%94%B5%E6%8A%A5%E5%91%8A/">无线电报告</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
@@ -400,55 +456,13 @@
       
       
       
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2024%E5%B9%B4/">时间轴 2024年</category>
+      <category domain="https://zuanshijia.top/categories/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
       
       
       <category domain="https://zuanshijia.top/tags/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/">日常分享</category>
       
       
       <comments>https://zuanshijia.top/posts/44489.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>上海市广播电台频率表  持续更新版</title>
-      <link>https://zuanshijia.top/posts/2050.html</link>
-      <guid>https://zuanshijia.top/posts/2050.html</guid>
-      <pubDate>Tue, 27 Aug 2024 12:57:20 GMT</pubDate>
-      
-      <description>上海地区频率</description>
-      
-      
-      
-      
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2024%E5%B9%B4/">时间轴 2024年</category>
-      
-      
-      <category domain="https://zuanshijia.top/tags/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
-      
-      
-      <comments>https://zuanshijia.top/posts/2050.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>湖北省广播电台频率表 2025年最新版本</title>
-      <link>https://zuanshijia.top/posts/5137.html</link>
-      <guid>https://zuanshijia.top/posts/5137.html</guid>
-      <pubDate>Sun, 05 May 2024 05:12:24 GMT</pubDate>
-      
-      <description>湖北地区频率表 站长在武汉地区亲自实测</description>
-      
-      
-      
-      
-      <category domain="https://zuanshijia.top/categories/%E6%97%B6%E9%97%B4%E8%BD%B4-2024%E5%B9%B4/">时间轴 2024年</category>
-      
-      
-      <category domain="https://zuanshijia.top/tags/%E6%97%A0%E7%BA%BF%E7%94%B5/">无线电</category>
-      
-      
-      <comments>https://zuanshijia.top/posts/5137.html#disqus_thread</comments>
       
     </item>
     
